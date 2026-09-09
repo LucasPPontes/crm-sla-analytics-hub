@@ -1,0 +1,521 @@
+ticket_id,cliente_id,titulo,categoria,prioridade,data_abertura,data_primeira_resposta,data_solucao,sla_resposta_alvo_hs,sla_solucao_alvo_hs,horas_consumidas,status,consultor,cumpre_sla_resposta,cumpre_sla_solucao
+TCK-1001,CLI-009,Erro de autenticação no portal do cliente,Suporte & Erros,Alta,2026-04-12 11:14:00,2026-04-12 11:30:12,2026-04-12 15:22:24,2,8,2.3,Fechado,Beatriz Lima,True,True
+TCK-1002,CLI-001,Erro de autenticação no portal do cliente,Suporte & Erros,Crítica,2026-03-28 11:32:00,2026-03-28 12:05:00,,1,4,3.0,Aguardando Cliente,Ana Silva,True,
+TCK-1003,CLI-002,Orientação sobre parametrização do sistema,Dúvidas Operacionais,Alta,2026-05-26 17:17:00,2026-05-26 17:23:36,2026-05-26 22:24:12,2,8,1.5,Fechado,Carlos Oliveira,True,True
+TCK-1004,CLI-002,Implementação de filtro avançado na listagem,Desenvolvimento & Melhoria,Média,2026-02-27 09:24:00,2026-02-27 12:28:12,2026-02-28 03:27:36,4,24,9.2,Fechado,Lucas Mendes,True,True
+TCK-1005,CLI-007,Esclarecimento sobre regra de encerramento mensal,Dúvidas Operacionais,Alta,2026-02-21 16:18:00,2026-02-21 17:27:00,2026-02-22 08:57:00,2,8,2.6,Fechado,Mariana Costa,True,False
+TCK-1006,CLI-009,Lentidão na geração de relatórios mensais,Suporte & Erros,Média,2026-02-21 11:55:00,2026-02-21 12:59:12,2026-02-21 20:36:24,4,24,1.6,Fechado,Lucas Mendes,True,True
+TCK-1007,CLI-005,Desenvolvimento de exportação em Excel customizada,Desenvolvimento & Melhoria,Baixa,2026-07-25 18:04:00,2026-07-25 19:23:12,2026-07-26 02:23:48,8,48,5.5,Fechado,Beatriz Lima,True,True
+TCK-1008,CLI-009,Como redefinir permissões de grupo de usuários,Dúvidas Operacionais,Alta,2026-04-25 08:14:00,2026-04-25 09:42:12,2026-04-25 10:16:24,2,8,3.2,Fechado,Beatriz Lima,True,True
+TCK-1009,CLI-006,Dúvida na importação do arquivo CSV de pedidos,Dúvidas Operacionais,Média,2026-07-18 15:25:00,2026-07-18 23:25:00,2026-07-19 01:29:12,4,24,2.7,Fechado,Carlos Oliveira,False,True
+TCK-1010,CLI-003,Dúvida na importação do arquivo CSV de pedidos,Dúvidas Operacionais,Crítica,2026-06-30 14:57:00,2026-06-30 15:20:24,2026-06-30 20:17:24,1,4,4.0,Fechado,Beatriz Lima,True,False
+TCK-1011,CLI-002,Erro de autenticação no portal do cliente,Suporte & Erros,Alta,2026-07-11 10:50:00,2026-07-11 11:56:36,2026-07-11 15:39:12,2,8,1.9,Fechado,Carlos Oliveira,True,True
+TCK-1012,CLI-008,Revisão das regras de negócio do contrato,Consultoria & Treinamento,Alta,2026-07-25 09:43:00,2026-07-25 14:01:00,2026-07-25 15:08:12,2,8,3.8,Fechado,Ana Silva,False,True
+TCK-1013,CLI-006,Automação do envio de notificações por email,Desenvolvimento & Melhoria,Média,2026-04-09 16:48:00,2026-04-09 20:05:24,2026-04-11 07:22:48,4,24,8.2,Fechado,Ana Silva,True,False
+TCK-1014,CLI-009,Como redefinir permissões de grupo de usuários,Dúvidas Operacionais,Alta,2026-05-07 10:34:00,2026-05-07 15:20:48,2026-05-08 03:31:00,2,8,2.0,Fechado,Carlos Oliveira,False,False
+TCK-1015,CLI-002,Falha na integração via API com ERP,Suporte & Erros,Média,2026-04-03 08:15:00,2026-04-03 11:39:36,2026-04-03 20:36:00,4,24,0.7,Fechado,Lucas Mendes,True,True
+TCK-1016,CLI-004,Como redefinir permissões de grupo de usuários,Dúvidas Operacionais,Alta,2026-07-19 15:35:00,2026-07-19 16:35:00,2026-07-19 22:34:24,2,8,3.3,Fechado,Carlos Oliveira,True,True
+TCK-1017,CLI-003,Desenvolvimento de exportação em Excel customizada,Desenvolvimento & Melhoria,Média,2026-07-22 18:23:00,2026-07-22 20:17:36,2026-07-23 00:52:24,4,24,5.0,Fechado,Mariana Costa,True,True
+TCK-1018,CLI-007,Como redefinir permissões de grupo de usuários,Dúvidas Operacionais,Alta,2026-03-29 08:04:00,2026-03-29 08:16:00,,2,8,0.7,Em Andamento,Rodrigo Santos,True,
+TCK-1019,CLI-001,Falha na integração via API com ERP,Suporte & Erros,Alta,2026-06-12 11:17:00,2026-06-12 11:44:36,2026-06-12 18:03:48,2,8,2.2,Fechado,Ana Silva,True,True
+TCK-1020,CLI-007,Configuração de certificado SSL e HTTPS,Infraestrutura & Cloud,Alta,2026-05-16 11:06:00,2026-05-16 11:55:48,2026-05-16 15:00:36,2,8,2.7,Fechado,Mariana Costa,True,True
+TCK-1021,CLI-006,Erro de autenticação no portal do cliente,Suporte & Erros,Alta,2026-04-28 09:15:00,2026-04-28 10:15:36,2026-04-28 11:33:36,2,8,1.9,Fechado,Mariana Costa,True,True
+TCK-1022,CLI-006,Bug na exibição do gráfico de vendas,Suporte & Erros,Alta,2026-02-26 08:41:00,2026-02-26 13:13:24,2026-02-27 06:05:00,2,8,3.0,Fechado,Rodrigo Santos,False,False
+TCK-1023,CLI-009,Automação do envio de notificações por email,Desenvolvimento & Melhoria,Baixa,2026-06-04 11:55:00,2026-06-04 12:26:12,,8,48,1.8,Aguardando Cliente,Mariana Costa,True,
+TCK-1024,CLI-009,Backup e restauração de ambiente de testes,Infraestrutura & Cloud,Baixa,2026-04-15 14:44:00,2026-04-16 10:41:00,,8,48,2.4,Em Andamento,Mariana Costa,False,
+TCK-1025,CLI-005,Configuração de certificado SSL e HTTPS,Infraestrutura & Cloud,Média,2026-04-17 11:03:00,2026-04-17 13:03:00,2026-04-17 14:21:36,4,24,2.3,Fechado,Carlos Oliveira,True,True
+TCK-1026,CLI-010,Como redefinir permissões de grupo de usuários,Dúvidas Operacionais,Média,2026-06-11 09:54:00,2026-06-11 12:04:48,2026-06-11 16:48:00,4,24,0.9,Fechado,Ana Silva,True,True
+TCK-1027,CLI-002,Como redefinir permissões de grupo de usuários,Dúvidas Operacionais,Média,2026-07-03 08:39:00,2026-07-03 11:03:00,2026-07-03 17:15:36,4,24,1.3,Fechado,Rodrigo Santos,True,True
+TCK-1028,CLI-001,Alinhamento estratégico para migração de sistema,Consultoria & Treinamento,Média,2026-05-13 10:42:00,2026-05-13 12:24:00,2026-05-16 03:16:48,4,24,2.1,Fechado,Lucas Mendes,True,False
+TCK-1029,CLI-009,Esclarecimento sobre regra de encerramento mensal,Dúvidas Operacionais,Média,2026-06-18 11:32:00,2026-06-18 14:54:12,2026-06-21 01:48:12,4,24,1.6,Fechado,Ana Silva,True,False
+TCK-1030,CLI-002,Automação do envio de notificações por email,Desenvolvimento & Melhoria,Média,2026-04-19 17:51:00,2026-04-19 17:58:48,2026-04-20 00:33:00,4,24,8.5,Fechado,Rodrigo Santos,True,True
+TCK-1031,CLI-006,Desenvolvimento de exportação em Excel customizada,Desenvolvimento & Melhoria,Média,2026-02-28 16:09:00,2026-02-28 18:22:12,2026-02-28 22:28:12,4,24,8.2,Fechado,Ana Silva,True,True
+TCK-1032,CLI-001,Revisão das regras de negócio do contrato,Consultoria & Treinamento,Baixa,2026-04-06 08:05:00,2026-04-06 14:04:24,2026-04-07 02:36:48,8,48,2.8,Fechado,Mariana Costa,True,True
+TCK-1033,CLI-004,Alinhamento estratégico para migração de sistema,Consultoria & Treinamento,Alta,2026-05-25 16:45:00,2026-05-25 16:52:12,2026-05-25 23:09:00,2,8,7.4,Fechado,Beatriz Lima,True,True
+TCK-1034,CLI-006,Esclarecimento sobre regra de encerramento mensal,Dúvidas Operacionais,Crítica,2026-06-30 16:09:00,2026-06-30 16:16:48,,1,4,1.8,Em Andamento,Lucas Mendes,True,
+TCK-1035,CLI-005,Falha na integração via API com ERP,Suporte & Erros,Baixa,2026-07-25 11:42:00,2026-07-25 17:20:24,2026-07-29 01:39:36,8,48,2.4,Fechado,Carlos Oliveira,True,False
+TCK-1036,CLI-009,Implementação de filtro avançado na listagem,Desenvolvimento & Melhoria,Baixa,2026-03-18 14:01:00,2026-03-18 20:40:36,2026-03-19 11:50:12,8,48,8.5,Fechado,Carlos Oliveira,True,True
+TCK-1037,CLI-009,Desenvolvimento de exportação em Excel customizada,Desenvolvimento & Melhoria,Média,2026-02-28 14:55:00,2026-02-28 16:40:00,2026-03-01 10:55:00,4,24,5.2,Fechado,Carlos Oliveira,True,True
+TCK-1038,CLI-008,Implementação de filtro avançado na listagem,Desenvolvimento & Melhoria,Crítica,2026-07-19 11:25:00,2026-07-19 12:12:24,,1,4,3.9,Aguardando Cliente,Ana Silva,True,
+TCK-1039,CLI-008,Consultoria de otimização de processos operacionais,Consultoria & Treinamento,Alta,2026-06-11 14:43:00,2026-06-11 18:25:00,2026-06-12 01:05:12,2,8,7.8,Fechado,Beatriz Lima,False,False
+TCK-1040,CLI-002,Refatoração da rotina de cálculo de impostos,Desenvolvimento & Melhoria,Média,2026-02-10 09:38:00,2026-02-10 12:17:00,2026-02-10 23:51:12,4,24,6.9,Fechado,Lucas Mendes,True,True
+TCK-1041,CLI-004,Configuração de rotina de backup em nuvem AWS,Infraestrutura & Cloud,Crítica,2026-04-07 08:45:00,2026-04-07 09:16:12,,1,4,3.3,Em Andamento,Carlos Oliveira,True,
+TCK-1042,CLI-008,Desenvolvimento de exportação em Excel customizada,Desenvolvimento & Melhoria,Média,2026-02-18 18:58:00,2026-02-18 20:10:00,2026-02-21 02:44:12,4,24,4.7,Fechado,Mariana Costa,True,False
+TCK-1043,CLI-001,Modelagem de novos relatórios gerenciais,Consultoria & Treinamento,Baixa,2026-05-15 12:35:00,2026-05-15 15:40:24,2026-05-20 00:39:12,8,48,7.4,Fechado,Lucas Mendes,True,False
+TCK-1044,CLI-010,Dúvida na importação do arquivo CSV de pedidos,Dúvidas Operacionais,Média,2026-06-21 08:19:00,2026-06-21 09:55:00,2026-06-21 23:04:36,4,24,1.9,Fechado,Mariana Costa,True,True
+TCK-1045,CLI-002,Configuração de certificado SSL e HTTPS,Infraestrutura & Cloud,Baixa,2026-06-02 10:42:00,2026-06-02 14:27:36,,8,48,2.7,Em Andamento,Rodrigo Santos,True,
+TCK-1046,CLI-007,Treinamento da equipe no novo módulo fiscal,Consultoria & Treinamento,Média,2026-07-23 12:14:00,2026-07-23 12:51:12,2026-07-24 09:30:12,4,24,5.7,Fechado,Carlos Oliveira,True,True
+TCK-1047,CLI-008,Bug na exibição do gráfico de vendas,Suporte & Erros,Baixa,2026-07-12 17:12:00,2026-07-12 20:01:48,2026-07-13 02:09:36,8,48,2.6,Fechado,Mariana Costa,True,True
+TCK-1048,CLI-007,Bug na exibição do gráfico de vendas,Suporte & Erros,Média,2026-03-18 16:29:00,2026-03-18 17:27:12,2026-03-20 13:30:12,4,24,2.9,Fechado,Carlos Oliveira,True,False
+TCK-1049,CLI-002,Dúvida na importação do arquivo CSV de pedidos,Dúvidas Operacionais,Média,2026-07-07 16:27:00,2026-07-07 18:28:12,2026-07-10 01:11:24,4,24,1.9,Fechado,Mariana Costa,True,False
+TCK-1050,CLI-007,Alinhamento estratégico para migração de sistema,Consultoria & Treinamento,Crítica,2026-04-12 16:31:00,2026-04-12 16:50:12,2026-04-12 17:55:00,1,4,3.6,Fechado,Beatriz Lima,True,True
+TCK-1051,CLI-005,Revisão das regras de negócio do contrato,Consultoria & Treinamento,Crítica,2026-03-08 10:14:00,2026-03-08 10:27:12,2026-03-08 11:58:24,1,4,4.0,Fechado,Ana Silva,True,True
+TCK-1052,CLI-002,Otimização de queries pesadas no banco,Infraestrutura & Cloud,Crítica,2026-03-25 14:24:00,2026-03-25 16:19:12,2026-03-25 17:47:24,1,4,5.1,Fechado,Ana Silva,False,True
+TCK-1053,CLI-004,Otimização de queries pesadas no banco,Infraestrutura & Cloud,Alta,2026-05-02 12:48:00,2026-05-02 14:25:12,2026-05-03 04:55:12,2,8,2.7,Fechado,Ana Silva,True,False
+TCK-1054,CLI-003,Como redefinir permissões de grupo de usuários,Dúvidas Operacionais,Média,2026-03-29 12:27:00,2026-03-29 13:54:36,2026-03-30 06:01:12,4,24,2.7,Fechado,Mariana Costa,True,True
+TCK-1055,CLI-002,Configuração de certificado SSL e HTTPS,Infraestrutura & Cloud,Baixa,2026-06-17 08:58:00,2026-06-17 13:04:36,2026-06-18 14:16:36,8,48,0.9,Fechado,Rodrigo Santos,True,True
+TCK-1056,CLI-008,Configuração de certificado SSL e HTTPS,Infraestrutura & Cloud,Alta,2026-04-08 14:20:00,2026-04-08 14:59:36,2026-04-08 17:35:36,2,8,2.8,Fechado,Ana Silva,True,True
+TCK-1057,CLI-008,Backup e restauração de ambiente de testes,Infraestrutura & Cloud,Baixa,2026-06-01 08:47:00,2026-06-01 15:59:00,2026-06-02 15:27:48,8,48,2.8,Fechado,Ana Silva,True,True
+TCK-1058,CLI-007,Erro de autenticação no portal do cliente,Suporte & Erros,Baixa,2026-03-24 08:39:00,2026-03-24 09:39:00,2026-03-25 09:32:24,8,48,1.2,Fechado,Carlos Oliveira,True,True
+TCK-1059,CLI-002,Consultoria de otimização de processos operacionais,Consultoria & Treinamento,Baixa,2026-07-06 17:47:00,2026-07-06 23:24:12,2026-07-07 11:14:00,8,48,5.5,Fechado,Carlos Oliveira,True,True
+TCK-1060,CLI-003,Revisão das regras de negócio do contrato,Consultoria & Treinamento,Baixa,2026-05-08 14:45:00,2026-05-08 19:03:00,2026-05-11 15:22:12,8,48,6.2,Fechado,Beatriz Lima,True,False
+TCK-1061,CLI-001,Revisão das regras de negócio do contrato,Consultoria & Treinamento,Média,2026-06-25 08:22:00,2026-06-25 10:47:12,2026-06-25 23:16:36,4,24,2.1,Fechado,Ana Silva,True,True
+TCK-1062,CLI-010,Otimização de queries pesadas no banco,Infraestrutura & Cloud,Baixa,2026-05-22 13:40:00,2026-05-23 03:37:00,2026-05-23 08:56:12,8,48,2.1,Fechado,Ana Silva,False,True
+TCK-1063,CLI-009,Revisão das regras de negócio do contrato,Consultoria & Treinamento,Baixa,2026-06-04 15:27:00,2026-06-04 19:45:36,2026-06-05 05:27:36,8,48,7.6,Fechado,Rodrigo Santos,True,True
+TCK-1064,CLI-004,Modelagem de novos relatórios gerenciais,Consultoria & Treinamento,Média,2026-05-30 17:39:00,2026-05-30 18:55:48,2026-05-31 01:40:12,4,24,4.9,Fechado,Carlos Oliveira,True,True
+TCK-1065,CLI-007,Consultoria de otimização de processos operacionais,Consultoria & Treinamento,Média,2026-04-13 17:44:00,2026-04-14 01:14:36,2026-04-14 04:05:36,4,24,3.4,Fechado,Lucas Mendes,False,True
+TCK-1066,CLI-008,Otimização de queries pesadas no banco,Infraestrutura & Cloud,Média,2026-04-03 15:41:00,2026-04-03 17:21:12,2026-04-03 23:21:48,4,24,1.7,Fechado,Rodrigo Santos,True,True
+TCK-1067,CLI-004,Desenvolvimento de exportação em Excel customizada,Desenvolvimento & Melhoria,Alta,2026-06-29 13:30:00,2026-06-29 14:10:48,2026-06-30 05:47:24,2,8,5.2,Fechado,Beatriz Lima,True,False
+TCK-1068,CLI-009,Backup e restauração de ambiente de testes,Infraestrutura & Cloud,Média,2026-04-06 11:07:00,2026-04-06 12:19:00,2026-04-07 07:43:36,4,24,2.6,Fechado,Lucas Mendes,True,True
+TCK-1069,CLI-007,Implementação de filtro avançado na listagem,Desenvolvimento & Melhoria,Média,2026-06-04 12:46:00,2026-06-04 15:31:36,2026-06-05 10:00:24,4,24,10.2,Fechado,Beatriz Lima,True,True
+TCK-1070,CLI-001,Alinhamento estratégico para migração de sistema,Consultoria & Treinamento,Crítica,2026-03-18 12:00:00,2026-03-18 12:12:00,2026-03-18 12:34:12,1,4,3.8,Fechado,Lucas Mendes,True,True
+TCK-1071,CLI-001,Automação do envio de notificações por email,Desenvolvimento & Melhoria,Média,2026-02-04 17:18:00,2026-02-04 18:56:24,2026-02-04 20:09:36,4,24,11.4,Fechado,Ana Silva,True,True
+TCK-1072,CLI-009,Aumento de capacidade do servidor de banco de dados,Infraestrutura & Cloud,Média,2026-05-14 15:04:00,2026-05-14 17:34:00,2026-05-15 09:05:48,4,24,3.3,Fechado,Ana Silva,True,True
+TCK-1073,CLI-004,Lentidão na geração de relatórios mensais,Suporte & Erros,Alta,2026-06-23 14:38:00,2026-06-23 15:47:00,2026-06-23 18:12:48,2,8,3.2,Fechado,Ana Silva,True,True
+TCK-1074,CLI-002,Revisão das regras de negócio do contrato,Consultoria & Treinamento,Baixa,2026-04-20 17:39:00,2026-04-21 00:34:12,2026-04-22 04:17:24,8,48,5.8,Fechado,Mariana Costa,True,True
+TCK-1075,CLI-008,Treinamento da equipe no novo módulo fiscal,Consultoria & Treinamento,Crítica,2026-04-03 10:35:00,2026-04-03 10:41:00,2026-04-03 12:50:36,1,4,3.7,Fechado,Carlos Oliveira,True,True
+TCK-1076,CLI-008,Desenvolvimento de exportação em Excel customizada,Desenvolvimento & Melhoria,Média,2026-04-14 15:04:00,2026-04-14 18:23:48,2026-04-15 05:53:12,4,24,8.4,Fechado,Beatriz Lima,True,True
+TCK-1077,CLI-002,Automação do envio de notificações por email,Desenvolvimento & Melhoria,Alta,2026-06-20 11:41:00,2026-06-20 12:14:00,2026-06-20 12:48:48,2,8,9.8,Fechado,Ana Silva,True,True
+TCK-1078,CLI-010,Dúvida na importação do arquivo CSV de pedidos,Dúvidas Operacionais,Média,2026-03-04 15:44:00,2026-03-04 17:14:36,2026-03-05 04:11:00,4,24,1.8,Fechado,Mariana Costa,True,True
+TCK-1079,CLI-004,Esclarecimento sobre regra de encerramento mensal,Dúvidas Operacionais,Média,2026-04-24 17:16:00,2026-04-24 18:10:00,2026-04-25 12:00:24,4,24,2.3,Fechado,Mariana Costa,True,True
+TCK-1080,CLI-010,Falha na integração via API com ERP,Suporte & Erros,Alta,2026-02-11 10:30:00,2026-02-11 11:21:00,2026-02-11 17:40:48,2,8,1.8,Fechado,Rodrigo Santos,True,True
+TCK-1081,CLI-005,Aumento de capacidade do servidor de banco de dados,Infraestrutura & Cloud,Crítica,2026-05-01 14:21:00,2026-05-01 14:31:48,2026-05-01 16:03:36,1,4,4.0,Fechado,Mariana Costa,True,True
+TCK-1082,CLI-006,Configuração de rotina de backup em nuvem AWS,Infraestrutura & Cloud,Média,2026-05-28 09:20:00,2026-05-28 09:50:36,2026-05-29 04:06:48,4,24,3.0,Fechado,Ana Silva,True,True
+TCK-1083,CLI-010,Erro de permissão de usuário no módulo financeiro,Suporte & Erros,Alta,2026-05-17 08:12:00,2026-05-17 09:21:36,2026-05-17 12:08:24,2,8,0.7,Fechado,Mariana Costa,True,True
+TCK-1084,CLI-002,Revisão das regras de negócio do contrato,Consultoria & Treinamento,Crítica,2026-04-15 15:56:00,2026-04-15 16:08:00,2026-04-16 00:28:24,1,4,3.4,Fechado,Carlos Oliveira,True,False
+TCK-1085,CLI-001,Desenvolvimento de exportação em Excel customizada,Desenvolvimento & Melhoria,Baixa,2026-02-04 16:26:00,2026-02-04 23:35:00,2026-02-08 10:53:00,8,48,2.7,Fechado,Rodrigo Santos,True,False
+TCK-1086,CLI-005,Automação do envio de notificações por email,Desenvolvimento & Melhoria,Baixa,2026-04-16 16:45:00,2026-04-16 22:46:48,2026-04-19 17:26:24,8,48,7.3,Fechado,Beatriz Lima,True,False
+TCK-1087,CLI-007,Configuração de certificado SSL e HTTPS,Infraestrutura & Cloud,Alta,2026-06-11 10:55:00,2026-06-11 12:19:36,2026-06-12 00:20:12,2,8,2.9,Fechado,Rodrigo Santos,True,False
+TCK-1088,CLI-002,Treinamento da equipe no novo módulo fiscal,Consultoria & Treinamento,Média,2026-04-18 17:37:00,2026-04-19 00:45:24,2026-04-19 08:38:12,4,24,4.1,Fechado,Lucas Mendes,False,True
+TCK-1089,CLI-001,Orientação sobre parametrização do sistema,Dúvidas Operacionais,Alta,2026-04-24 11:44:00,2026-04-24 12:29:00,2026-04-25 02:07:24,2,8,1.5,Fechado,Mariana Costa,True,False
+TCK-1090,CLI-004,Otimização de queries pesadas no banco,Infraestrutura & Cloud,Baixa,2026-07-20 18:09:00,2026-07-20 18:30:36,2026-07-21 19:52:48,8,48,3.1,Fechado,Mariana Costa,True,True
+TCK-1091,CLI-009,Aumento de capacidade do servidor de banco de dados,Infraestrutura & Cloud,Baixa,2026-05-28 08:46:00,2026-05-28 15:02:48,2026-05-30 19:40:36,8,48,2.8,Fechado,Rodrigo Santos,True,False
+TCK-1092,CLI-002,Consultoria de otimização de processos operacionais,Consultoria & Treinamento,Alta,2026-05-13 18:05:00,2026-05-13 19:38:00,2026-05-14 08:03:12,2,8,3.9,Fechado,Rodrigo Santos,True,False
+TCK-1093,CLI-006,Configuração de rotina de backup em nuvem AWS,Infraestrutura & Cloud,Média,2026-07-09 09:15:00,2026-07-09 12:34:12,2026-07-11 18:07:12,4,24,1.8,Fechado,Ana Silva,True,False
+TCK-1094,CLI-002,Erro de autenticação no portal do cliente,Suporte & Erros,Média,2026-03-15 12:57:00,2026-03-15 14:11:24,2026-03-15 21:37:12,4,24,1.8,Fechado,Mariana Costa,True,True
+TCK-1095,CLI-001,Refatoração da rotina de cálculo de impostos,Desenvolvimento & Melhoria,Média,2026-06-25 18:50:00,2026-06-25 19:32:36,2026-06-26 03:39:12,4,24,8.7,Fechado,Mariana Costa,True,True
+TCK-1096,CLI-008,Configuração de rotina de backup em nuvem AWS,Infraestrutura & Cloud,Alta,2026-04-01 15:40:00,2026-04-01 16:11:48,2026-04-01 21:36:24,2,8,3.2,Fechado,Carlos Oliveira,True,True
+TCK-1097,CLI-010,Como redefinir permissões de grupo de usuários,Dúvidas Operacionais,Média,2026-05-25 13:37:00,2026-05-25 17:05:12,2026-05-26 01:28:36,4,24,1.4,Fechado,Ana Silva,True,True
+TCK-1098,CLI-009,Otimização de queries pesadas no banco,Infraestrutura & Cloud,Média,2026-04-02 14:36:00,2026-04-02 15:44:24,2026-04-02 16:22:48,4,24,3.0,Fechado,Ana Silva,True,True
+TCK-1099,CLI-007,Backup e restauração de ambiente de testes,Infraestrutura & Cloud,Alta,2026-06-25 18:49:00,2026-06-25 18:59:48,,2,8,2.6,Em Andamento,Ana Silva,True,
+TCK-1100,CLI-005,Backup e restauração de ambiente de testes,Infraestrutura & Cloud,Alta,2026-07-06 13:14:00,2026-07-06 14:23:36,2026-07-06 18:48:12,2,8,2.5,Fechado,Carlos Oliveira,True,True
+TCK-1101,CLI-007,Criação de novo campo personalizado de cadastro,Desenvolvimento & Melhoria,Crítica,2026-07-16 08:19:00,2026-07-16 08:26:48,2026-07-16 09:04:36,1,4,11.1,Fechado,Beatriz Lima,True,True
+TCK-1102,CLI-004,Modelagem de novos relatórios gerenciais,Consultoria & Treinamento,Alta,2026-03-24 10:50:00,2026-03-24 12:35:00,2026-03-24 17:35:00,2,8,7.0,Fechado,Carlos Oliveira,True,True
+TCK-1103,CLI-009,Modelagem de novos relatórios gerenciais,Consultoria & Treinamento,Alta,2026-04-28 09:29:00,2026-04-28 12:04:24,2026-04-29 05:59:00,2,8,6.3,Fechado,Lucas Mendes,False,False
+TCK-1104,CLI-003,Configuração de rotina de backup em nuvem AWS,Infraestrutura & Cloud,Alta,2026-02-24 14:00:00,2026-02-24 14:18:36,2026-02-24 19:31:12,2,8,1.3,Fechado,Lucas Mendes,True,True
+TCK-1105,CLI-004,Backup e restauração de ambiente de testes,Infraestrutura & Cloud,Média,2026-07-23 11:30:00,2026-07-23 14:41:24,2026-07-24 07:33:36,4,24,1.2,Fechado,Ana Silva,True,True
+TCK-1106,CLI-002,Bug na exibição do gráfico de vendas,Suporte & Erros,Média,2026-04-19 18:26:00,2026-04-19 18:41:36,2026-04-20 15:56:36,4,24,0.8,Fechado,Beatriz Lima,True,True
+TCK-1107,CLI-003,Refatoração da rotina de cálculo de impostos,Desenvolvimento & Melhoria,Média,2026-05-11 15:23:00,2026-05-11 18:05:00,2026-05-13 10:53:00,4,24,9.3,Fechado,Carlos Oliveira,True,False
+TCK-1108,CLI-010,Automação do envio de notificações por email,Desenvolvimento & Melhoria,Alta,2026-02-26 15:39:00,2026-02-26 17:22:12,2026-02-26 19:31:48,2,8,6.2,Fechado,Beatriz Lima,True,True
+TCK-1109,CLI-007,Desenvolvimento de exportação em Excel customizada,Desenvolvimento & Melhoria,Média,2026-07-26 13:34:00,2026-07-26 21:34:36,2026-07-27 01:28:00,4,24,11.7,Fechado,Ana Silva,False,True
+TCK-1110,CLI-002,Aumento de capacidade do servidor de banco de dados,Infraestrutura & Cloud,Média,2026-03-27 18:40:00,2026-03-27 18:50:12,2026-03-28 00:12:24,4,24,0.9,Fechado,Beatriz Lima,True,True
+TCK-1111,CLI-006,Como redefinir permissões de grupo de usuários,Dúvidas Operacionais,Crítica,2026-06-22 11:37:00,2026-06-22 12:25:00,2026-06-22 12:59:48,1,4,5.6,Fechado,Ana Silva,True,True
+TCK-1112,CLI-002,Falha na integração via API com ERP,Suporte & Erros,Baixa,2026-03-06 16:16:00,2026-03-06 17:08:48,2026-03-09 07:49:36,8,48,1.6,Fechado,Carlos Oliveira,True,False
+TCK-1113,CLI-005,Refatoração da rotina de cálculo de impostos,Desenvolvimento & Melhoria,Alta,2026-02-05 10:16:00,2026-02-05 11:37:36,2026-02-05 16:02:12,2,8,6.5,Fechado,Lucas Mendes,True,True
+TCK-1114,CLI-008,Revisão das regras de negócio do contrato,Consultoria & Treinamento,Média,2026-02-28 15:32:00,2026-02-28 17:47:00,2026-03-01 11:23:00,4,24,6.0,Fechado,Rodrigo Santos,True,True
+TCK-1115,CLI-009,Modelagem de novos relatórios gerenciais,Consultoria & Treinamento,Média,2026-02-08 08:30:00,2026-02-08 10:05:24,2026-02-09 00:24:00,4,24,4.7,Fechado,Beatriz Lima,True,True
+TCK-1116,CLI-003,Falha na integração via API com ERP,Suporte & Erros,Alta,2026-03-10 09:08:00,2026-03-10 10:18:48,,2,8,2.4,Aguardando Cliente,Rodrigo Santos,True,
+TCK-1117,CLI-004,Modelagem de novos relatórios gerenciais,Consultoria & Treinamento,Alta,2026-06-16 12:29:00,2026-06-16 13:18:48,2026-06-16 14:13:24,2,8,5.9,Fechado,Rodrigo Santos,True,True
+TCK-1118,CLI-008,Como redefinir permissões de grupo de usuários,Dúvidas Operacionais,Baixa,2026-05-27 11:26:00,2026-05-27 14:45:12,2026-05-27 18:43:24,8,48,1.8,Fechado,Mariana Costa,True,True
+TCK-1119,CLI-007,Consultoria de otimização de processos operacionais,Consultoria & Treinamento,Média,2026-07-26 15:04:00,2026-07-26 15:28:00,2026-07-27 07:18:24,4,24,4.2,Fechado,Carlos Oliveira,True,True
+TCK-1120,CLI-009,Refatoração da rotina de cálculo de impostos,Desenvolvimento & Melhoria,Baixa,2026-07-01 16:35:00,2026-07-01 17:33:12,2026-07-02 21:42:48,8,48,9.4,Fechado,Ana Silva,True,True
+TCK-1121,CLI-003,Falha na integração via API com ERP,Suporte & Erros,Média,2026-04-21 13:06:00,2026-04-21 13:56:24,2026-04-21 18:45:00,4,24,0.8,Fechado,Rodrigo Santos,True,True
+TCK-1122,CLI-007,Dúvida na importação do arquivo CSV de pedidos,Dúvidas Operacionais,Crítica,2026-04-13 17:14:00,2026-04-13 18:00:48,2026-04-14 03:12:12,1,4,4.5,Fechado,Ana Silva,True,False
+TCK-1123,CLI-009,Esclarecimento sobre regra de encerramento mensal,Dúvidas Operacionais,Baixa,2026-07-19 12:01:00,2026-07-19 17:06:24,2026-07-20 06:11:12,8,48,0.5,Fechado,Rodrigo Santos,True,True
+TCK-1124,CLI-002,Refatoração da rotina de cálculo de impostos,Desenvolvimento & Melhoria,Média,2026-05-14 09:09:00,2026-05-14 12:39:00,2026-05-14 22:21:00,4,24,5.5,Fechado,Beatriz Lima,True,True
+TCK-1125,CLI-007,Backup e restauração de ambiente de testes,Infraestrutura & Cloud,Média,2026-05-06 12:46:00,2026-05-06 16:09:24,2026-05-07 08:16:00,4,24,1.0,Fechado,Carlos Oliveira,True,True
+TCK-1126,CLI-004,Esclarecimento sobre regra de encerramento mensal,Dúvidas Operacionais,Crítica,2026-02-21 12:28:00,2026-02-21 12:57:24,2026-02-21 13:56:48,1,4,5.0,Fechado,Beatriz Lima,True,True
+TCK-1127,CLI-006,Falha na integração via API com ERP,Suporte & Erros,Crítica,2026-03-01 12:43:00,2026-03-01 13:12:24,,1,4,2.8,Aguardando Cliente,Mariana Costa,True,
+TCK-1128,CLI-006,Lentidão na geração de relatórios mensais,Suporte & Erros,Alta,2026-07-04 08:00:00,2026-07-04 09:42:36,2026-07-04 13:57:00,2,8,1.4,Fechado,Mariana Costa,True,True
+TCK-1129,CLI-004,Erro de autenticação no portal do cliente,Suporte & Erros,Média,2026-05-22 10:08:00,2026-05-22 12:41:36,2026-05-23 04:35:36,4,24,2.9,Fechado,Mariana Costa,True,True
+TCK-1130,CLI-004,Bug na exibição do gráfico de vendas,Suporte & Erros,Média,2026-02-11 14:01:00,2026-02-11 14:23:12,2026-02-11 23:37:00,4,24,1.7,Fechado,Beatriz Lima,True,True
+TCK-1131,CLI-005,Backup e restauração de ambiente de testes,Infraestrutura & Cloud,Baixa,2026-05-15 08:20:00,2026-05-15 15:09:48,2026-05-16 16:18:12,8,48,1.6,Fechado,Ana Silva,True,True
+TCK-1132,CLI-003,Aumento de capacidade do servidor de banco de dados,Infraestrutura & Cloud,Média,2026-05-23 17:25:00,2026-05-23 18:54:24,2026-05-24 01:52:00,4,24,1.5,Fechado,Carlos Oliveira,True,True
+TCK-1133,CLI-004,Criação de novo campo personalizado de cadastro,Desenvolvimento & Melhoria,Alta,2026-07-13 09:33:00,2026-07-13 11:11:24,2026-07-13 15:17:24,2,8,10.1,Fechado,Rodrigo Santos,True,True
+TCK-1134,CLI-010,Implementação de filtro avançado na listagem,Desenvolvimento & Melhoria,Média,2026-03-10 12:12:00,2026-03-10 12:50:24,2026-03-10 14:36:00,4,24,11.5,Fechado,Ana Silva,True,True
+TCK-1135,CLI-003,Otimização de queries pesadas no banco,Infraestrutura & Cloud,Alta,2026-06-29 15:43:00,2026-06-29 19:29:48,2026-06-29 21:42:24,2,8,3.1,Fechado,Rodrigo Santos,False,True
+TCK-1136,CLI-008,Alinhamento estratégico para migração de sistema,Consultoria & Treinamento,Baixa,2026-02-18 15:28:00,2026-02-18 21:13:00,2026-02-19 10:31:36,8,48,2.4,Fechado,Mariana Costa,True,True
+TCK-1137,CLI-006,Otimização de queries pesadas no banco,Infraestrutura & Cloud,Alta,2026-02-15 13:53:00,2026-02-15 15:05:00,2026-02-15 23:54:48,2,8,2.3,Fechado,Ana Silva,True,False
+TCK-1138,CLI-004,Otimização de queries pesadas no banco,Infraestrutura & Cloud,Baixa,2026-06-22 08:28:00,2026-06-22 23:40:00,2026-06-23 16:41:12,8,48,2.0,Fechado,Rodrigo Santos,False,True
+TCK-1139,CLI-010,Bug na exibição do gráfico de vendas,Suporte & Erros,Alta,2026-04-29 09:32:00,2026-04-29 09:42:12,2026-04-29 16:40:24,2,8,2.1,Fechado,Ana Silva,True,True
+TCK-1140,CLI-004,Como redefinir permissões de grupo de usuários,Dúvidas Operacionais,Baixa,2026-05-07 12:24:00,2026-05-07 14:54:00,2026-05-08 23:03:36,8,48,2.4,Fechado,Lucas Mendes,True,True
+TCK-1141,CLI-005,Falha na integração via API com ERP,Suporte & Erros,Média,2026-06-23 18:24:00,2026-06-23 21:01:48,2026-06-24 14:14:24,4,24,3.1,Fechado,Ana Silva,True,True
+TCK-1142,CLI-008,Treinamento da equipe no novo módulo fiscal,Consultoria & Treinamento,Alta,2026-07-20 10:58:00,2026-07-20 12:43:00,2026-07-20 14:58:36,2,8,5.6,Fechado,Rodrigo Santos,True,True
+TCK-1143,CLI-006,Falha na integração via API com ERP,Suporte & Erros,Baixa,2026-05-08 18:50:00,2026-05-08 19:50:36,2026-05-10 11:48:48,8,48,3.5,Fechado,Rodrigo Santos,True,True
+TCK-1144,CLI-009,Esclarecimento sobre regra de encerramento mensal,Dúvidas Operacionais,Crítica,2026-07-22 14:32:00,2026-07-22 14:55:24,2026-07-22 15:45:48,1,4,5.8,Fechado,Beatriz Lima,True,True
+TCK-1145,CLI-004,Configuração de certificado SSL e HTTPS,Infraestrutura & Cloud,Alta,2026-03-08 10:04:00,2026-03-08 11:30:24,2026-03-08 14:42:24,2,8,2.7,Fechado,Carlos Oliveira,True,True
+TCK-1146,CLI-005,Esclarecimento sobre regra de encerramento mensal,Dúvidas Operacionais,Média,2026-04-28 17:08:00,2026-04-28 17:46:24,2026-04-29 08:21:12,4,24,2.4,Fechado,Beatriz Lima,True,True
+TCK-1147,CLI-008,Automação do envio de notificações por email,Desenvolvimento & Melhoria,Baixa,2026-05-17 13:43:00,2026-05-17 20:41:48,2026-05-18 23:59:48,8,48,9.7,Fechado,Ana Silva,True,True
+TCK-1148,CLI-003,Refatoração da rotina de cálculo de impostos,Desenvolvimento & Melhoria,Média,2026-04-21 15:57:00,2026-04-21 17:20:24,2026-04-24 10:31:12,4,24,6.3,Fechado,Carlos Oliveira,True,False
+TCK-1149,CLI-006,Modelagem de novos relatórios gerenciais,Consultoria & Treinamento,Alta,2026-06-16 14:10:00,2026-06-16 15:37:36,2026-06-16 17:13:00,2,8,5.8,Fechado,Rodrigo Santos,True,True
+TCK-1150,CLI-005,Revisão das regras de negócio do contrato,Consultoria & Treinamento,Alta,2026-06-13 09:18:00,2026-06-13 09:40:12,,2,8,2.1,Em Andamento,Ana Silva,True,
+TCK-1151,CLI-007,Como redefinir permissões de grupo de usuários,Dúvidas Operacionais,Média,2026-02-24 11:52:00,2026-02-24 13:11:12,2026-02-24 14:27:24,4,24,2.0,Fechado,Mariana Costa,True,True
+TCK-1152,CLI-010,Automação do envio de notificações por email,Desenvolvimento & Melhoria,Média,2026-05-07 11:01:00,2026-05-07 11:28:00,2026-05-07 18:41:12,4,24,3.0,Fechado,Ana Silva,True,True
+TCK-1153,CLI-010,Falha na integração via API com ERP,Suporte & Erros,Alta,2026-03-08 15:28:00,2026-03-08 17:06:24,2026-03-08 18:28:00,2,8,0.9,Fechado,Mariana Costa,True,True
+TCK-1154,CLI-010,Orientação sobre parametrização do sistema,Dúvidas Operacionais,Baixa,2026-04-15 11:19:00,2026-04-15 13:06:24,2026-04-16 14:58:36,8,48,0.7,Fechado,Ana Silva,True,True
+TCK-1155,CLI-010,Configuração de rotina de backup em nuvem AWS,Infraestrutura & Cloud,Baixa,2026-02-05 18:32:00,2026-02-05 23:44:00,,8,48,1.5,Em Andamento,Rodrigo Santos,True,
+TCK-1156,CLI-010,Erro de permissão de usuário no módulo financeiro,Suporte & Erros,Baixa,2026-04-03 17:26:00,2026-04-03 22:16:24,2026-04-04 12:14:00,8,48,3.4,Fechado,Lucas Mendes,True,True
+TCK-1157,CLI-008,Esclarecimento sobre regra de encerramento mensal,Dúvidas Operacionais,Alta,2026-06-01 08:40:00,2026-06-01 09:23:48,2026-06-01 11:50:12,2,8,0.7,Fechado,Mariana Costa,True,True
+TCK-1158,CLI-010,Criação de novo campo personalizado de cadastro,Desenvolvimento & Melhoria,Média,2026-04-27 10:02:00,2026-04-27 11:18:48,2026-04-28 04:13:24,4,24,8.7,Fechado,Rodrigo Santos,True,True
+TCK-1159,CLI-009,Configuração de certificado SSL e HTTPS,Infraestrutura & Cloud,Alta,2026-02-17 15:02:00,2026-02-17 15:12:12,2026-02-17 15:41:36,2,8,3.3,Fechado,Carlos Oliveira,True,True
+TCK-1160,CLI-009,Orientação sobre parametrização do sistema,Dúvidas Operacionais,Crítica,2026-06-02 12:02:00,2026-06-02 12:17:00,2026-06-02 14:56:36,1,4,5.5,Fechado,Rodrigo Santos,True,True
+TCK-1161,CLI-007,Consultoria de otimização de processos operacionais,Consultoria & Treinamento,Crítica,2026-05-06 14:56:00,2026-05-06 15:23:00,2026-05-06 21:38:36,1,4,3.1,Fechado,Ana Silva,True,False
+TCK-1162,CLI-003,Backup e restauração de ambiente de testes,Infraestrutura & Cloud,Média,2026-04-10 09:46:00,2026-04-10 11:22:36,,4,24,4.0,Em Andamento,Rodrigo Santos,True,
+TCK-1163,CLI-004,Refatoração da rotina de cálculo de impostos,Desenvolvimento & Melhoria,Crítica,2026-04-24 09:05:00,2026-04-24 09:25:24,2026-04-24 11:49:24,1,4,3.2,Fechado,Lucas Mendes,True,True
+TCK-1164,CLI-001,Backup e restauração de ambiente de testes,Infraestrutura & Cloud,Crítica,2026-02-11 13:39:00,2026-02-11 15:07:48,2026-02-12 00:30:00,1,4,2.3,Fechado,Mariana Costa,False,False
+TCK-1165,CLI-005,Backup e restauração de ambiente de testes,Infraestrutura & Cloud,Alta,2026-07-24 10:01:00,2026-07-24 11:08:48,,2,8,3.2,Em Andamento,Rodrigo Santos,True,
+TCK-1166,CLI-009,Lentidão na geração de relatórios mensais,Suporte & Erros,Baixa,2026-04-02 18:23:00,2026-04-03 01:13:24,2026-04-03 06:58:24,8,48,1.8,Fechado,Ana Silva,True,True
+TCK-1167,CLI-005,Consultoria de otimização de processos operacionais,Consultoria & Treinamento,Crítica,2026-02-20 17:08:00,2026-02-20 17:33:12,2026-02-20 18:29:36,1,4,2.7,Fechado,Mariana Costa,True,True
+TCK-1168,CLI-001,Automação do envio de notificações por email,Desenvolvimento & Melhoria,Média,2026-05-11 16:07:00,2026-05-11 17:07:36,,4,24,2.1,Em Andamento,Rodrigo Santos,True,
+TCK-1169,CLI-009,Dúvida na importação do arquivo CSV de pedidos,Dúvidas Operacionais,Alta,2026-06-06 11:07:00,2026-06-06 11:20:48,,2,8,1.1,Aguardando Cliente,Beatriz Lima,True,
+TCK-1170,CLI-005,Aumento de capacidade do servidor de banco de dados,Infraestrutura & Cloud,Crítica,2026-04-23 18:22:00,2026-04-23 18:54:24,2026-04-23 19:58:00,1,4,2.6,Fechado,Beatriz Lima,True,True
+TCK-1171,CLI-006,Desenvolvimento de exportação em Excel customizada,Desenvolvimento & Melhoria,Média,2026-03-30 09:12:00,2026-03-30 10:07:48,2026-03-30 17:43:12,4,24,7.5,Fechado,Rodrigo Santos,True,True
+TCK-1172,CLI-010,Configuração de rotina de backup em nuvem AWS,Infraestrutura & Cloud,Baixa,2026-07-07 09:04:00,2026-07-07 16:16:00,2026-07-08 11:17:12,8,48,2.8,Fechado,Carlos Oliveira,True,True
+TCK-1173,CLI-007,Esclarecimento sobre regra de encerramento mensal,Dúvidas Operacionais,Média,2026-04-23 18:04:00,2026-04-23 20:32:48,2026-04-24 13:21:24,4,24,2.8,Fechado,Carlos Oliveira,True,True
+TCK-1174,CLI-010,Como redefinir permissões de grupo de usuários,Dúvidas Operacionais,Média,2026-05-22 16:58:00,2026-05-22 19:58:36,2026-05-23 01:46:00,4,24,1.0,Fechado,Carlos Oliveira,True,True
+TCK-1175,CLI-001,Desenvolvimento de exportação em Excel customizada,Desenvolvimento & Melhoria,Média,2026-04-14 09:16:00,2026-04-14 12:43:00,2026-04-15 00:08:12,4,24,8.0,Fechado,Rodrigo Santos,True,True
+TCK-1176,CLI-010,Erro de permissão de usuário no módulo financeiro,Suporte & Erros,Média,2026-03-16 17:37:00,2026-03-16 20:01:36,2026-03-17 07:43:00,4,24,3.0,Fechado,Beatriz Lima,True,True
+TCK-1177,CLI-001,Esclarecimento sobre regra de encerramento mensal,Dúvidas Operacionais,Alta,2026-02-21 08:41:00,2026-02-21 09:14:00,2026-02-21 13:07:24,2,8,2.4,Fechado,Ana Silva,True,True
+TCK-1178,CLI-006,Bug na exibição do gráfico de vendas,Suporte & Erros,Média,2026-06-20 12:41:00,2026-06-20 19:47:00,2026-06-21 05:47:00,4,24,1.4,Fechado,Beatriz Lima,False,True
+TCK-1179,CLI-002,Erro de autenticação no portal do cliente,Suporte & Erros,Média,2026-05-24 14:30:00,2026-05-24 15:47:24,2026-05-25 09:18:36,4,24,1.5,Fechado,Carlos Oliveira,True,True
+TCK-1180,CLI-003,Modelagem de novos relatórios gerenciais,Consultoria & Treinamento,Média,2026-05-06 16:35:00,2026-05-06 17:32:00,2026-05-07 02:55:24,4,24,2.8,Fechado,Carlos Oliveira,True,True
+TCK-1181,CLI-007,Falha na integração via API com ERP,Suporte & Erros,Alta,2026-07-08 14:15:00,2026-07-08 18:58:48,,2,8,3.3,Aguardando Cliente,Mariana Costa,False,
+TCK-1182,CLI-006,Dúvida na importação do arquivo CSV de pedidos,Dúvidas Operacionais,Média,2026-03-13 15:32:00,2026-03-13 18:42:48,2026-03-13 20:33:12,4,24,1.7,Fechado,Carlos Oliveira,True,True
+TCK-1183,CLI-001,Configuração de certificado SSL e HTTPS,Infraestrutura & Cloud,Média,2026-06-30 13:03:00,2026-06-30 14:52:48,2026-07-02 18:08:24,4,24,1.9,Fechado,Carlos Oliveira,True,False
+TCK-1184,CLI-004,Esclarecimento sobre regra de encerramento mensal,Dúvidas Operacionais,Média,2026-05-22 10:56:00,2026-05-22 12:18:48,2026-05-22 13:25:24,4,24,0.7,Fechado,Ana Silva,True,True
+TCK-1185,CLI-005,Como redefinir permissões de grupo de usuários,Dúvidas Operacionais,Média,2026-06-22 12:04:00,2026-06-22 13:44:48,,4,24,2.4,Em Andamento,Lucas Mendes,True,
+TCK-1186,CLI-004,Esclarecimento sobre regra de encerramento mensal,Dúvidas Operacionais,Média,2026-02-25 14:23:00,2026-02-25 15:40:24,,4,24,3.8,Aguardando Cliente,Carlos Oliveira,True,
+TCK-1187,CLI-002,Implementação de filtro avançado na listagem,Desenvolvimento & Melhoria,Alta,2026-06-11 14:32:00,2026-06-11 14:42:12,2026-06-11 20:23:36,2,8,7.0,Fechado,Rodrigo Santos,True,True
+TCK-1188,CLI-001,Refatoração da rotina de cálculo de impostos,Desenvolvimento & Melhoria,Baixa,2026-03-08 13:59:00,2026-03-08 15:14:00,2026-03-13 07:06:48,8,48,4.6,Fechado,Rodrigo Santos,True,False
+TCK-1189,CLI-004,Revisão das regras de negócio do contrato,Consultoria & Treinamento,Média,2026-06-17 15:45:00,2026-06-17 17:30:36,2026-06-18 00:13:12,4,24,2.7,Fechado,Rodrigo Santos,True,True
+TCK-1190,CLI-006,Configuração de rotina de backup em nuvem AWS,Infraestrutura & Cloud,Média,2026-07-27 18:01:00,2026-07-27 19:02:48,2026-07-28 15:02:48,4,24,2.2,Fechado,Lucas Mendes,True,True
+TCK-1191,CLI-007,Criação de novo campo personalizado de cadastro,Desenvolvimento & Melhoria,Baixa,2026-06-03 10:33:00,2026-06-03 15:03:00,2026-06-06 03:24:36,8,48,8.6,Fechado,Rodrigo Santos,True,False
+TCK-1192,CLI-001,Erro de permissão de usuário no módulo financeiro,Suporte & Erros,Média,2026-03-01 11:01:00,2026-03-01 12:35:12,2026-03-01 16:49:36,4,24,2.0,Fechado,Beatriz Lima,True,True
+TCK-1193,CLI-006,Orientação sobre parametrização do sistema,Dúvidas Operacionais,Baixa,2026-02-16 10:33:00,2026-02-16 12:57:36,2026-02-17 10:29:24,8,48,1.4,Fechado,Beatriz Lima,True,True
+TCK-1194,CLI-008,Automação do envio de notificações por email,Desenvolvimento & Melhoria,Média,2026-04-29 16:22:00,2026-04-29 19:30:24,,4,24,2.9,Em Andamento,Rodrigo Santos,True,
+TCK-1195,CLI-006,Revisão das regras de negócio do contrato,Consultoria & Treinamento,Média,2026-03-22 11:17:00,2026-03-22 12:10:24,2026-03-24 01:49:24,4,24,3.7,Fechado,Mariana Costa,True,False
+TCK-1196,CLI-004,Automação do envio de notificações por email,Desenvolvimento & Melhoria,Baixa,2026-06-03 13:35:00,2026-06-04 07:17:36,2026-06-04 10:34:24,8,48,8.6,Fechado,Lucas Mendes,False,True
+TCK-1197,CLI-009,Otimização de queries pesadas no banco,Infraestrutura & Cloud,Média,2026-03-10 12:02:00,2026-03-10 14:38:00,2026-03-10 23:09:12,4,24,1.3,Fechado,Lucas Mendes,True,True
+TCK-1198,CLI-003,Configuração de certificado SSL e HTTPS,Infraestrutura & Cloud,Baixa,2026-06-18 12:59:00,2026-06-18 15:00:48,2026-06-19 21:33:48,8,48,1.2,Fechado,Carlos Oliveira,True,True
+TCK-1199,CLI-001,Erro de permissão de usuário no módulo financeiro,Suporte & Erros,Baixa,2026-07-14 11:03:00,2026-07-14 13:30:00,2026-07-15 17:19:12,8,48,0.9,Fechado,Carlos Oliveira,True,True
+TCK-1200,CLI-004,Como redefinir permissões de grupo de usuários,Dúvidas Operacionais,Alta,2026-07-18 15:30:00,2026-07-18 16:53:24,2026-07-18 18:41:24,2,8,0.7,Fechado,Mariana Costa,True,True
+TCK-1201,CLI-006,Erro de permissão de usuário no módulo financeiro,Suporte & Erros,Média,2026-06-17 08:58:00,2026-06-17 15:42:24,2026-06-20 01:28:00,4,24,0.6,Fechado,Carlos Oliveira,False,False
+TCK-1202,CLI-008,Otimização de queries pesadas no banco,Infraestrutura & Cloud,Média,2026-04-16 08:00:00,2026-04-16 10:12:36,2026-04-18 00:04:12,4,24,1.9,Fechado,Carlos Oliveira,True,False
+TCK-1203,CLI-001,Orientação sobre parametrização do sistema,Dúvidas Operacionais,Baixa,2026-06-10 15:17:00,2026-06-10 16:11:00,2026-06-11 11:42:12,8,48,1.3,Fechado,Carlos Oliveira,True,True
+TCK-1204,CLI-002,Criação de novo campo personalizado de cadastro,Desenvolvimento & Melhoria,Alta,2026-04-28 12:36:00,2026-04-28 13:01:48,2026-04-28 17:25:48,2,8,5.8,Fechado,Beatriz Lima,True,True
+TCK-1205,CLI-007,Configuração de rotina de backup em nuvem AWS,Infraestrutura & Cloud,Baixa,2026-02-23 14:42:00,2026-02-23 21:46:12,2026-02-25 07:35:24,8,48,0.5,Fechado,Lucas Mendes,True,True
+TCK-1206,CLI-009,Configuração de certificado SSL e HTTPS,Infraestrutura & Cloud,Baixa,2026-04-10 13:19:00,2026-04-10 17:29:12,2026-04-11 07:38:48,8,48,1.2,Fechado,Mariana Costa,True,True
+TCK-1207,CLI-009,Bug na exibição do gráfico de vendas,Suporte & Erros,Média,2026-03-13 14:43:00,2026-03-13 17:56:48,2026-03-13 23:47:48,4,24,0.9,Fechado,Lucas Mendes,True,True
+TCK-1208,CLI-006,Consultoria de otimização de processos operacionais,Consultoria & Treinamento,Média,2026-03-29 11:08:00,2026-03-29 12:49:24,2026-03-31 04:46:24,4,24,6.2,Fechado,Rodrigo Santos,True,False
+TCK-1209,CLI-010,Configuração de rotina de backup em nuvem AWS,Infraestrutura & Cloud,Média,2026-03-28 11:43:00,2026-03-28 14:52:36,2026-03-28 23:13:36,4,24,2.6,Fechado,Beatriz Lima,True,True
+TCK-1210,CLI-003,Erro de permissão de usuário no módulo financeiro,Suporte & Erros,Crítica,2026-02-16 16:57:00,2026-02-16 17:30:36,2026-02-16 18:38:24,1,4,4.1,Fechado,Ana Silva,True,True
+TCK-1211,CLI-006,Lentidão na geração de relatórios mensais,Suporte & Erros,Alta,2026-06-30 15:05:00,2026-06-30 18:32:00,2026-06-30 19:12:12,2,8,1.7,Fechado,Beatriz Lima,False,True
+TCK-1212,CLI-009,Esclarecimento sobre regra de encerramento mensal,Dúvidas Operacionais,Baixa,2026-05-30 18:51:00,2026-05-30 19:06:00,,8,48,1.4,Em Andamento,Rodrigo Santos,True,
+TCK-1213,CLI-009,Lentidão na geração de relatórios mensais,Suporte & Erros,Média,2026-02-19 08:27:00,2026-02-19 08:46:12,2026-02-22 00:58:48,4,24,0.7,Fechado,Rodrigo Santos,True,False
+TCK-1214,CLI-008,Aumento de capacidade do servidor de banco de dados,Infraestrutura & Cloud,Média,2026-05-16 10:49:00,2026-05-16 13:10:00,2026-05-17 07:43:36,4,24,1.6,Fechado,Lucas Mendes,True,True
+TCK-1215,CLI-003,Otimização de queries pesadas no banco,Infraestrutura & Cloud,Alta,2026-05-08 09:43:00,2026-05-08 14:22:00,2026-05-08 16:35:12,2,8,0.9,Fechado,Mariana Costa,False,True
+TCK-1216,CLI-008,Orientação sobre parametrização do sistema,Dúvidas Operacionais,Alta,2026-03-05 11:53:00,2026-03-05 12:01:24,2026-03-05 16:50:36,2,8,2.1,Fechado,Rodrigo Santos,True,True
+TCK-1217,CLI-010,Orientação sobre parametrização do sistema,Dúvidas Operacionais,Média,2026-04-05 15:22:00,2026-04-05 16:07:36,2026-04-08 00:59:48,4,24,0.6,Fechado,Carlos Oliveira,True,False
+TCK-1218,CLI-008,Configuração de rotina de backup em nuvem AWS,Infraestrutura & Cloud,Média,2026-04-03 11:04:00,2026-04-03 11:17:12,2026-04-04 02:23:12,4,24,0.6,Fechado,Ana Silva,True,True
+TCK-1219,CLI-010,Bug na exibição do gráfico de vendas,Suporte & Erros,Média,2026-04-01 16:13:00,2026-04-01 19:02:12,2026-04-02 13:41:48,4,24,1.2,Fechado,Mariana Costa,True,True
+TCK-1220,CLI-010,Dúvida na importação do arquivo CSV de pedidos,Dúvidas Operacionais,Média,2026-07-04 18:52:00,2026-07-04 20:01:36,2026-07-05 09:35:12,4,24,1.2,Fechado,Rodrigo Santos,True,True
+TCK-1221,CLI-010,Consultoria de otimização de processos operacionais,Consultoria & Treinamento,Média,2026-06-23 17:56:00,2026-06-23 18:38:36,2026-06-24 06:20:36,4,24,2.3,Fechado,Ana Silva,True,True
+TCK-1222,CLI-004,Modelagem de novos relatórios gerenciais,Consultoria & Treinamento,Alta,2026-04-23 14:26:00,2026-04-23 15:10:24,2026-04-23 18:20:00,2,8,7.1,Fechado,Rodrigo Santos,True,True
+TCK-1223,CLI-004,Alinhamento estratégico para migração de sistema,Consultoria & Treinamento,Média,2026-02-15 16:26:00,2026-02-15 23:57:12,2026-02-16 03:31:24,4,24,3.2,Fechado,Mariana Costa,False,True
+TCK-1224,CLI-002,Bug na exibição do gráfico de vendas,Suporte & Erros,Baixa,2026-02-24 16:46:00,2026-02-24 17:14:12,2026-02-25 19:10:00,8,48,0.6,Fechado,Lucas Mendes,True,True
+TCK-1225,CLI-005,Lentidão na geração de relatórios mensais,Suporte & Erros,Média,2026-07-22 16:13:00,2026-07-22 19:21:24,,4,24,1.7,Em Andamento,Rodrigo Santos,True,
+TCK-1226,CLI-003,Lentidão na geração de relatórios mensais,Suporte & Erros,Alta,2026-03-03 15:58:00,2026-03-03 17:05:48,2026-03-03 22:40:00,2,8,2.2,Fechado,Carlos Oliveira,True,True
+TCK-1227,CLI-010,Modelagem de novos relatórios gerenciais,Consultoria & Treinamento,Média,2026-06-17 18:22:00,2026-06-17 19:43:36,2026-06-19 15:46:36,4,24,6.8,Fechado,Mariana Costa,True,False
+TCK-1228,CLI-002,Backup e restauração de ambiente de testes,Infraestrutura & Cloud,Média,2026-05-06 13:26:00,2026-05-06 16:33:12,2026-05-06 17:03:12,4,24,2.2,Fechado,Carlos Oliveira,True,True
+TCK-1229,CLI-010,Orientação sobre parametrização do sistema,Dúvidas Operacionais,Crítica,2026-03-12 11:21:00,2026-03-12 11:54:36,2026-03-12 13:40:12,1,4,5.8,Fechado,Lucas Mendes,True,True
+TCK-1230,CLI-002,Consultoria de otimização de processos operacionais,Consultoria & Treinamento,Média,2026-07-15 15:29:00,2026-07-15 18:21:48,2026-07-16 07:54:12,4,24,4.9,Fechado,Mariana Costa,True,True
+TCK-1231,CLI-005,Esclarecimento sobre regra de encerramento mensal,Dúvidas Operacionais,Média,2026-02-09 09:52:00,2026-02-09 12:38:48,2026-02-10 04:32:12,4,24,1.2,Fechado,Rodrigo Santos,True,True
+TCK-1232,CLI-005,Criação de novo campo personalizado de cadastro,Desenvolvimento & Melhoria,Baixa,2026-06-10 15:23:00,2026-06-10 20:00:48,2026-06-15 22:39:48,8,48,8.4,Fechado,Carlos Oliveira,True,False
+TCK-1233,CLI-007,Erro de autenticação no portal do cliente,Suporte & Erros,Baixa,2026-06-22 14:00:00,2026-06-22 19:13:48,2026-06-23 06:15:36,8,48,2.0,Fechado,Rodrigo Santos,True,True
+TCK-1234,CLI-005,Configuração de certificado SSL e HTTPS,Infraestrutura & Cloud,Média,2026-02-25 16:09:00,2026-02-25 18:25:12,2026-02-26 01:24:00,4,24,2.9,Fechado,Ana Silva,True,True
+TCK-1235,CLI-001,Falha na integração via API com ERP,Suporte & Erros,Crítica,2026-05-29 17:15:00,2026-05-29 18:40:12,,1,4,2.9,Aguardando Cliente,Mariana Costa,False,
+TCK-1236,CLI-006,Erro de autenticação no portal do cliente,Suporte & Erros,Média,2026-05-15 14:24:00,2026-05-15 14:42:00,2026-05-15 18:31:12,4,24,2.0,Fechado,Ana Silva,True,True
+TCK-1237,CLI-001,Backup e restauração de ambiente de testes,Infraestrutura & Cloud,Baixa,2026-02-25 16:58:00,2026-02-25 18:34:00,,8,48,3.5,Em Andamento,Rodrigo Santos,True,
+TCK-1238,CLI-006,Orientação sobre parametrização do sistema,Dúvidas Operacionais,Média,2026-02-12 09:43:00,2026-02-12 19:09:24,2026-02-12 19:44:48,4,24,3.3,Fechado,Lucas Mendes,False,True
+TCK-1239,CLI-004,Treinamento da equipe no novo módulo fiscal,Consultoria & Treinamento,Baixa,2026-07-01 10:48:00,2026-07-01 16:43:48,2026-07-04 16:01:12,8,48,5.4,Fechado,Carlos Oliveira,True,False
+TCK-1240,CLI-007,Orientação sobre parametrização do sistema,Dúvidas Operacionais,Alta,2026-06-19 13:24:00,2026-06-19 13:44:24,2026-06-20 08:03:00,2,8,2.0,Fechado,Beatriz Lima,True,False
+TCK-1241,CLI-008,Treinamento da equipe no novo módulo fiscal,Consultoria & Treinamento,Média,2026-05-23 11:53:00,2026-05-23 14:06:12,2026-05-24 01:43:24,4,24,7.8,Fechado,Ana Silva,True,True
+TCK-1242,CLI-001,Treinamento da equipe no novo módulo fiscal,Consultoria & Treinamento,Média,2026-04-11 15:31:00,2026-04-11 17:33:24,2026-04-11 21:21:24,4,24,5.5,Fechado,Beatriz Lima,True,True
+TCK-1243,CLI-008,Aumento de capacidade do servidor de banco de dados,Infraestrutura & Cloud,Baixa,2026-04-17 11:45:00,2026-04-17 13:45:00,,8,48,1.8,Aguardando Cliente,Rodrigo Santos,True,
+TCK-1244,CLI-005,Automação do envio de notificações por email,Desenvolvimento & Melhoria,Média,2026-05-04 09:05:00,2026-05-04 10:15:48,2026-05-04 15:54:48,4,24,2.9,Fechado,Lucas Mendes,True,True
+TCK-1245,CLI-002,Automação do envio de notificações por email,Desenvolvimento & Melhoria,Baixa,2026-06-23 16:32:00,2026-06-23 16:49:24,2026-06-23 20:59:36,8,48,7.8,Fechado,Mariana Costa,True,True
+TCK-1246,CLI-001,Modelagem de novos relatórios gerenciais,Consultoria & Treinamento,Média,2026-04-16 14:24:00,2026-04-16 17:02:24,2026-04-17 11:51:36,4,24,3.5,Fechado,Ana Silva,True,True
+TCK-1247,CLI-009,Como redefinir permissões de grupo de usuários,Dúvidas Operacionais,Média,2026-05-09 10:08:00,2026-05-09 11:10:24,2026-05-09 14:46:24,4,24,1.3,Fechado,Beatriz Lima,True,True
+TCK-1248,CLI-005,Modelagem de novos relatórios gerenciais,Consultoria & Treinamento,Crítica,2026-05-04 12:15:00,2026-05-04 12:45:00,2026-05-04 14:16:48,1,4,2.8,Fechado,Ana Silva,True,True
+TCK-1249,CLI-002,Bug na exibição do gráfico de vendas,Suporte & Erros,Média,2026-07-09 14:51:00,2026-07-09 16:29:24,,4,24,2.0,Aguardando Cliente,Lucas Mendes,True,
+TCK-1250,CLI-010,Como redefinir permissões de grupo de usuários,Dúvidas Operacionais,Alta,2026-04-24 17:44:00,2026-04-24 18:21:48,2026-04-25 15:42:12,2,8,1.4,Fechado,Lucas Mendes,True,False
+TCK-1251,CLI-004,Configuração de rotina de backup em nuvem AWS,Infraestrutura & Cloud,Baixa,2026-04-25 14:17:00,2026-04-25 17:10:24,2026-04-26 15:59:36,8,48,2.3,Fechado,Carlos Oliveira,True,True
+TCK-1252,CLI-003,Como redefinir permissões de grupo de usuários,Dúvidas Operacionais,Alta,2026-06-21 08:46:00,2026-06-21 10:04:00,2026-06-21 11:55:36,2,8,2.6,Fechado,Beatriz Lima,True,True
+TCK-1253,CLI-009,Otimização de queries pesadas no banco,Infraestrutura & Cloud,Alta,2026-07-13 12:15:00,2026-07-13 12:36:36,2026-07-13 15:18:36,2,8,1.8,Fechado,Carlos Oliveira,True,True
+TCK-1254,CLI-007,Orientação sobre parametrização do sistema,Dúvidas Operacionais,Crítica,2026-05-14 16:32:00,2026-05-14 18:51:12,2026-05-14 19:05:36,1,4,5.9,Fechado,Rodrigo Santos,False,True
+TCK-1255,CLI-004,Esclarecimento sobre regra de encerramento mensal,Dúvidas Operacionais,Alta,2026-04-05 18:42:00,2026-04-05 19:54:00,,2,8,0.7,Em Andamento,Ana Silva,True,
+TCK-1256,CLI-007,Backup e restauração de ambiente de testes,Infraestrutura & Cloud,Média,2026-02-28 08:06:00,2026-02-28 09:59:24,2026-02-28 21:31:12,4,24,2.2,Fechado,Mariana Costa,True,True
+TCK-1257,CLI-009,Backup e restauração de ambiente de testes,Infraestrutura & Cloud,Média,2026-05-30 18:37:00,2026-05-30 19:14:48,,4,24,4.0,Aguardando Cliente,Mariana Costa,True,
+TCK-1258,CLI-008,Aumento de capacidade do servidor de banco de dados,Infraestrutura & Cloud,Baixa,2026-05-18 09:07:00,2026-05-18 14:23:48,,8,48,1.7,Aguardando Cliente,Lucas Mendes,True,
+TCK-1259,CLI-006,Modelagem de novos relatórios gerenciais,Consultoria & Treinamento,Média,2026-06-14 15:22:00,2026-06-14 16:59:48,2026-06-14 23:29:48,4,24,3.8,Fechado,Carlos Oliveira,True,True
+TCK-1260,CLI-005,Erro de autenticação no portal do cliente,Suporte & Erros,Média,2026-07-16 09:43:00,2026-07-16 13:04:00,2026-07-16 22:34:36,4,24,2.2,Fechado,Lucas Mendes,True,True
+TCK-1261,CLI-007,Revisão das regras de negócio do contrato,Consultoria & Treinamento,Média,2026-05-30 11:51:00,2026-05-30 12:36:00,2026-05-30 21:43:12,4,24,2.2,Fechado,Mariana Costa,True,True
+TCK-1262,CLI-001,Como redefinir permissões de grupo de usuários,Dúvidas Operacionais,Média,2026-07-02 14:24:00,2026-07-02 15:15:00,2026-07-03 05:54:36,4,24,2.9,Fechado,Mariana Costa,True,True
+TCK-1263,CLI-001,Esclarecimento sobre regra de encerramento mensal,Dúvidas Operacionais,Alta,2026-03-20 13:20:00,2026-03-20 13:37:24,2026-03-20 17:06:12,2,8,3.4,Fechado,Rodrigo Santos,True,True
+TCK-1264,CLI-006,Revisão das regras de negócio do contrato,Consultoria & Treinamento,Crítica,2026-07-07 14:37:00,2026-07-07 14:59:48,2026-07-07 15:43:00,1,4,6.0,Fechado,Mariana Costa,True,True
+TCK-1265,CLI-010,Revisão das regras de negócio do contrato,Consultoria & Treinamento,Média,2026-02-22 18:08:00,2026-02-22 19:04:24,2026-02-23 02:54:48,4,24,2.8,Fechado,Rodrigo Santos,True,True
+TCK-1266,CLI-007,Otimização de queries pesadas no banco,Infraestrutura & Cloud,Alta,2026-03-08 17:24:00,2026-03-08 18:19:48,2026-03-09 00:06:36,2,8,3.3,Fechado,Rodrigo Santos,True,True
+TCK-1267,CLI-001,Refatoração da rotina de cálculo de impostos,Desenvolvimento & Melhoria,Baixa,2026-06-06 12:08:00,2026-06-06 18:12:48,,8,48,2.7,Em Andamento,Carlos Oliveira,True,
+TCK-1268,CLI-009,Treinamento da equipe no novo módulo fiscal,Consultoria & Treinamento,Média,2026-03-07 11:52:00,2026-03-07 13:56:12,2026-03-07 22:02:48,4,24,5.0,Fechado,Mariana Costa,True,True
+TCK-1269,CLI-005,Otimização de queries pesadas no banco,Infraestrutura & Cloud,Alta,2026-02-22 17:01:00,2026-02-22 17:29:12,,2,8,0.6,Aguardando Cliente,Carlos Oliveira,True,
+TCK-1270,CLI-001,Refatoração da rotina de cálculo de impostos,Desenvolvimento & Melhoria,Média,2026-03-16 15:36:00,2026-03-16 18:22:48,2026-03-16 20:41:24,4,24,2.7,Fechado,Lucas Mendes,True,True
+TCK-1271,CLI-010,Dúvida na importação do arquivo CSV de pedidos,Dúvidas Operacionais,Crítica,2026-02-11 15:34:00,2026-02-11 16:00:24,2026-02-11 18:08:12,1,4,3.0,Fechado,Rodrigo Santos,True,True
+TCK-1272,CLI-007,Bug na exibição do gráfico de vendas,Suporte & Erros,Baixa,2026-05-01 09:28:00,2026-05-01 10:23:48,2026-05-01 19:25:36,8,48,2.7,Fechado,Lucas Mendes,True,True
+TCK-1273,CLI-001,Revisão das regras de negócio do contrato,Consultoria & Treinamento,Alta,2026-05-21 10:39:00,2026-05-21 11:06:00,2026-05-21 11:41:24,2,8,4.1,Fechado,Beatriz Lima,True,True
+TCK-1274,CLI-008,Revisão das regras de negócio do contrato,Consultoria & Treinamento,Alta,2026-03-16 13:45:00,2026-03-16 14:49:12,2026-03-17 05:33:00,2,8,7.4,Fechado,Rodrigo Santos,True,False
+TCK-1275,CLI-009,Lentidão na geração de relatórios mensais,Suporte & Erros,Média,2026-02-16 12:55:00,2026-02-16 15:28:00,2026-02-16 18:25:36,4,24,1.5,Fechado,Mariana Costa,True,True
+TCK-1276,CLI-008,Automação do envio de notificações por email,Desenvolvimento & Melhoria,Crítica,2026-03-09 17:40:00,2026-03-09 18:05:48,2026-03-09 20:10:36,1,4,10.7,Fechado,Mariana Costa,True,True
+TCK-1277,CLI-008,Bug na exibição do gráfico de vendas,Suporte & Erros,Média,2026-04-13 13:29:00,2026-04-13 19:42:48,2026-04-14 07:39:12,4,24,2.7,Fechado,Rodrigo Santos,False,True
+TCK-1278,CLI-005,Backup e restauração de ambiente de testes,Infraestrutura & Cloud,Média,2026-06-17 14:13:00,2026-06-17 23:14:12,,4,24,2.2,Em Andamento,Ana Silva,False,
+TCK-1279,CLI-003,Consultoria de otimização de processos operacionais,Consultoria & Treinamento,Média,2026-06-21 17:08:00,2026-06-21 18:56:00,2026-06-22 08:30:48,4,24,2.3,Fechado,Lucas Mendes,True,True
+TCK-1280,CLI-010,Bug na exibição do gráfico de vendas,Suporte & Erros,Baixa,2026-03-04 10:28:00,2026-03-04 17:36:24,2026-03-06 05:31:00,8,48,3.2,Fechado,Ana Silva,True,True
+TCK-1281,CLI-002,Alinhamento estratégico para migração de sistema,Consultoria & Treinamento,Alta,2026-02-24 18:23:00,2026-02-24 19:06:48,,2,8,3.7,Em Andamento,Lucas Mendes,True,
+TCK-1282,CLI-003,Criação de novo campo personalizado de cadastro,Desenvolvimento & Melhoria,Média,2026-07-11 12:46:00,2026-07-11 13:41:12,2026-07-12 04:17:48,4,24,1.5,Fechado,Mariana Costa,True,True
+TCK-1283,CLI-010,Aumento de capacidade do servidor de banco de dados,Infraestrutura & Cloud,Baixa,2026-07-02 11:33:00,2026-07-02 11:43:12,,8,48,2.9,Em Andamento,Carlos Oliveira,True,
+TCK-1284,CLI-010,Bug na exibição do gráfico de vendas,Suporte & Erros,Média,2026-03-06 15:04:00,2026-03-06 15:28:36,,4,24,3.3,Aguardando Cliente,Beatriz Lima,True,
+TCK-1285,CLI-006,Falha na integração via API com ERP,Suporte & Erros,Alta,2026-04-18 10:24:00,2026-04-18 11:46:48,2026-04-18 17:33:36,2,8,0.9,Fechado,Lucas Mendes,True,True
+TCK-1286,CLI-006,Esclarecimento sobre regra de encerramento mensal,Dúvidas Operacionais,Média,2026-07-17 10:28:00,2026-07-17 11:19:00,2026-07-18 06:25:00,4,24,2.3,Fechado,Rodrigo Santos,True,True
+TCK-1287,CLI-001,Configuração de certificado SSL e HTTPS,Infraestrutura & Cloud,Média,2026-02-26 10:48:00,2026-02-26 13:27:36,2026-02-26 21:42:36,4,24,2.9,Fechado,Ana Silva,True,True
+TCK-1288,CLI-005,Desenvolvimento de exportação em Excel customizada,Desenvolvimento & Melhoria,Alta,2026-02-22 11:35:00,2026-02-22 12:54:48,2026-02-22 18:27:12,2,8,1.8,Fechado,Beatriz Lima,True,True
+TCK-1289,CLI-004,Alinhamento estratégico para migração de sistema,Consultoria & Treinamento,Média,2026-07-06 16:12:00,2026-07-06 17:19:48,2026-07-07 11:43:48,4,24,7.7,Fechado,Rodrigo Santos,True,True
+TCK-1290,CLI-007,Otimização de queries pesadas no banco,Infraestrutura & Cloud,Média,2026-04-03 15:40:00,2026-04-03 17:37:00,2026-04-06 10:19:36,4,24,3.3,Fechado,Ana Silva,True,False
+TCK-1291,CLI-003,Automação do envio de notificações por email,Desenvolvimento & Melhoria,Baixa,2026-05-19 13:34:00,2026-05-19 19:05:12,2026-05-24 09:13:36,8,48,1.7,Fechado,Rodrigo Santos,True,False
+TCK-1292,CLI-006,Erro de autenticação no portal do cliente,Suporte & Erros,Alta,2026-03-28 08:59:00,2026-03-28 10:25:24,2026-03-28 14:06:48,2,8,2.0,Fechado,Lucas Mendes,True,True
+TCK-1293,CLI-002,Otimização de queries pesadas no banco,Infraestrutura & Cloud,Crítica,2026-05-14 09:40:00,2026-05-14 10:15:24,2026-05-14 11:19:36,1,4,4.0,Fechado,Beatriz Lima,True,True
+TCK-1294,CLI-002,Implementação de filtro avançado na listagem,Desenvolvimento & Melhoria,Alta,2026-04-25 14:37:00,2026-04-25 16:08:12,2026-04-25 16:41:48,2,8,8.8,Fechado,Rodrigo Santos,True,True
+TCK-1295,CLI-008,Criação de novo campo personalizado de cadastro,Desenvolvimento & Melhoria,Média,2026-02-23 14:07:00,2026-02-23 16:20:48,2026-02-24 06:46:00,4,24,9.3,Fechado,Carlos Oliveira,True,True
+TCK-1296,CLI-005,Erro de autenticação no portal do cliente,Suporte & Erros,Média,2026-03-08 08:10:00,2026-03-08 09:28:36,2026-03-09 02:11:48,4,24,1.3,Fechado,Beatriz Lima,True,True
+TCK-1297,CLI-005,Alinhamento estratégico para migração de sistema,Consultoria & Treinamento,Baixa,2026-04-10 09:49:00,2026-04-10 22:22:00,2026-04-11 14:31:00,8,48,3.6,Fechado,Beatriz Lima,False,True
+TCK-1298,CLI-007,Esclarecimento sobre regra de encerramento mensal,Dúvidas Operacionais,Baixa,2026-05-28 16:23:00,2026-05-28 22:35:00,2026-05-29 04:34:24,8,48,2.8,Fechado,Mariana Costa,True,True
+TCK-1299,CLI-007,Esclarecimento sobre regra de encerramento mensal,Dúvidas Operacionais,Média,2026-06-11 08:02:00,2026-06-11 08:10:24,2026-06-11 16:06:48,4,24,3.3,Fechado,Carlos Oliveira,True,True
+TCK-1300,CLI-002,Criação de novo campo personalizado de cadastro,Desenvolvimento & Melhoria,Média,2026-07-18 14:14:00,2026-07-18 15:47:36,,4,24,3.0,Em Andamento,Rodrigo Santos,True,
+TCK-1301,CLI-003,Treinamento da equipe no novo módulo fiscal,Consultoria & Treinamento,Média,2026-05-07 09:32:00,2026-05-07 09:48:48,2026-05-07 20:54:12,4,24,2.3,Fechado,Rodrigo Santos,True,True
+TCK-1302,CLI-001,Aumento de capacidade do servidor de banco de dados,Infraestrutura & Cloud,Baixa,2026-04-14 12:20:00,2026-04-14 15:40:24,,8,48,1.8,Em Andamento,Mariana Costa,True,
+TCK-1303,CLI-004,Revisão das regras de negócio do contrato,Consultoria & Treinamento,Média,2026-07-10 11:29:00,2026-07-10 14:59:00,2026-07-12 21:32:36,4,24,6.4,Fechado,Lucas Mendes,True,False
+TCK-1304,CLI-010,Como redefinir permissões de grupo de usuários,Dúvidas Operacionais,Baixa,2026-02-02 14:01:00,2026-02-02 16:34:36,2026-02-07 18:23:48,8,48,3.4,Fechado,Carlos Oliveira,True,False
+TCK-1305,CLI-008,Bug na exibição do gráfico de vendas,Suporte & Erros,Alta,2026-04-20 09:13:00,2026-04-20 09:43:00,2026-04-20 10:18:24,2,8,3.5,Fechado,Beatriz Lima,True,True
+TCK-1306,CLI-009,Treinamento da equipe no novo módulo fiscal,Consultoria & Treinamento,Baixa,2026-04-01 16:26:00,2026-04-01 19:10:24,2026-04-04 04:09:48,8,48,2.6,Fechado,Ana Silva,True,False
+TCK-1307,CLI-001,Automação do envio de notificações por email,Desenvolvimento & Melhoria,Baixa,2026-07-02 17:03:00,2026-07-03 00:00:00,2026-07-03 09:36:36,8,48,4.8,Fechado,Ana Silva,True,True
+TCK-1308,CLI-007,Backup e restauração de ambiente de testes,Infraestrutura & Cloud,Baixa,2026-05-27 12:14:00,2026-05-27 13:46:24,2026-05-28 14:12:48,8,48,1.0,Fechado,Lucas Mendes,True,True
+TCK-1309,CLI-010,Automação do envio de notificações por email,Desenvolvimento & Melhoria,Crítica,2026-04-22 14:07:00,2026-04-22 14:59:12,2026-04-22 15:58:00,1,4,4.3,Fechado,Mariana Costa,True,True
+TCK-1310,CLI-002,Erro de autenticação no portal do cliente,Suporte & Erros,Média,2026-07-26 12:52:00,2026-07-26 15:04:36,2026-07-27 07:43:00,4,24,0.9,Fechado,Carlos Oliveira,True,True
+TCK-1311,CLI-010,Desenvolvimento de exportação em Excel customizada,Desenvolvimento & Melhoria,Alta,2026-06-12 08:43:00,2026-06-12 10:12:24,2026-06-12 15:39:24,2,8,10.5,Fechado,Mariana Costa,True,True
+TCK-1312,CLI-002,Como redefinir permissões de grupo de usuários,Dúvidas Operacionais,Alta,2026-05-30 09:51:00,2026-05-30 10:09:36,2026-05-30 15:34:48,2,8,1.2,Fechado,Ana Silva,True,True
+TCK-1313,CLI-006,Automação do envio de notificações por email,Desenvolvimento & Melhoria,Média,2026-07-26 18:41:00,2026-07-26 20:50:00,2026-07-28 00:08:36,4,24,12.0,Fechado,Lucas Mendes,True,False
+TCK-1314,CLI-003,Automação do envio de notificações por email,Desenvolvimento & Melhoria,Alta,2026-02-24 13:07:00,2026-02-24 13:59:48,2026-02-24 17:42:24,2,8,10.1,Fechado,Carlos Oliveira,True,True
+TCK-1315,CLI-009,Otimização de queries pesadas no banco,Infraestrutura & Cloud,Alta,2026-05-09 18:27:00,2026-05-09 18:55:12,2026-05-09 20:57:00,2,8,3.2,Fechado,Ana Silva,True,True
+TCK-1316,CLI-005,Erro de permissão de usuário no módulo financeiro,Suporte & Erros,Baixa,2026-07-08 11:41:00,2026-07-08 14:42:48,2026-07-08 17:21:12,8,48,1.3,Fechado,Rodrigo Santos,True,True
+TCK-1317,CLI-009,Automação do envio de notificações por email,Desenvolvimento & Melhoria,Média,2026-07-15 16:15:00,2026-07-15 19:09:36,2026-07-16 13:39:00,4,24,9.7,Fechado,Carlos Oliveira,True,True
+TCK-1318,CLI-007,Modelagem de novos relatórios gerenciais,Consultoria & Treinamento,Média,2026-06-05 13:58:00,2026-06-05 15:11:48,2026-06-05 15:55:36,4,24,5.6,Fechado,Rodrigo Santos,True,True
+TCK-1319,CLI-002,Falha na integração via API com ERP,Suporte & Erros,Baixa,2026-06-01 16:22:00,2026-06-01 23:34:00,,8,48,3.9,Em Andamento,Ana Silva,True,
+TCK-1320,CLI-004,Lentidão na geração de relatórios mensais,Suporte & Erros,Baixa,2026-04-03 12:34:00,2026-04-03 19:10:36,2026-04-05 07:38:12,8,48,1.2,Fechado,Beatriz Lima,True,True
+TCK-1321,CLI-007,Backup e restauração de ambiente de testes,Infraestrutura & Cloud,Média,2026-03-18 11:37:00,2026-03-18 14:17:48,2026-03-19 01:34:00,4,24,2.6,Fechado,Carlos Oliveira,True,True
+TCK-1322,CLI-007,Revisão das regras de negócio do contrato,Consultoria & Treinamento,Baixa,2026-03-09 17:12:00,2026-03-09 23:03:00,2026-03-13 18:14:24,8,48,3.1,Fechado,Rodrigo Santos,True,False
+TCK-1323,CLI-002,Erro de autenticação no portal do cliente,Suporte & Erros,Crítica,2026-04-01 17:14:00,2026-04-01 17:42:48,,1,4,1.7,Em Andamento,Ana Silva,True,
+TCK-1324,CLI-005,Como redefinir permissões de grupo de usuários,Dúvidas Operacionais,Média,2026-04-29 10:58:00,2026-04-29 14:06:24,2026-04-29 17:00:24,4,24,2.6,Fechado,Carlos Oliveira,True,True
+TCK-1325,CLI-007,Criação de novo campo personalizado de cadastro,Desenvolvimento & Melhoria,Crítica,2026-05-05 09:23:00,2026-05-05 10:00:48,,1,4,2.6,Aguardando Cliente,Rodrigo Santos,True,
+TCK-1326,CLI-007,Consultoria de otimização de processos operacionais,Consultoria & Treinamento,Alta,2026-03-07 10:46:00,2026-03-07 15:11:12,2026-03-08 04:23:48,2,8,3.0,Fechado,Lucas Mendes,False,False
+TCK-1327,CLI-004,Dúvida na importação do arquivo CSV de pedidos,Dúvidas Operacionais,Média,2026-07-21 17:52:00,2026-07-21 19:02:12,2026-07-21 21:49:00,4,24,2.7,Fechado,Carlos Oliveira,True,True
+TCK-1328,CLI-002,Orientação sobre parametrização do sistema,Dúvidas Operacionais,Alta,2026-02-09 10:38:00,2026-02-09 12:06:12,,2,8,2.6,Em Andamento,Rodrigo Santos,True,
+TCK-1329,CLI-001,Esclarecimento sobre regra de encerramento mensal,Dúvidas Operacionais,Média,2026-03-09 13:47:00,2026-03-09 15:05:36,2026-03-10 04:04:24,4,24,3.4,Fechado,Mariana Costa,True,True
+TCK-1330,CLI-002,Modelagem de novos relatórios gerenciais,Consultoria & Treinamento,Média,2026-04-09 11:15:00,2026-04-09 12:34:48,2026-04-10 03:14:24,4,24,2.3,Fechado,Ana Silva,True,True
+TCK-1331,CLI-007,Otimização de queries pesadas no banco,Infraestrutura & Cloud,Alta,2026-05-17 15:56:00,2026-05-17 16:57:48,2026-05-17 20:01:24,2,8,3.1,Fechado,Carlos Oliveira,True,True
+TCK-1332,CLI-005,Implementação de filtro avançado na listagem,Desenvolvimento & Melhoria,Crítica,2026-02-19 08:18:00,2026-02-19 08:36:36,2026-02-19 09:52:12,1,4,10.8,Fechado,Mariana Costa,True,True
+TCK-1333,CLI-005,Criação de novo campo personalizado de cadastro,Desenvolvimento & Melhoria,Média,2026-02-24 13:38:00,2026-02-24 23:02:00,,4,24,3.0,Em Andamento,Rodrigo Santos,False,
+TCK-1334,CLI-005,Configuração de certificado SSL e HTTPS,Infraestrutura & Cloud,Crítica,2026-05-23 10:03:00,2026-05-23 10:18:36,2026-05-23 12:42:00,1,4,4.9,Fechado,Rodrigo Santos,True,True
+TCK-1335,CLI-010,Dúvida na importação do arquivo CSV de pedidos,Dúvidas Operacionais,Baixa,2026-04-14 12:15:00,2026-04-14 15:08:24,2026-04-15 11:01:48,8,48,0.7,Fechado,Beatriz Lima,True,True
+TCK-1336,CLI-002,Bug na exibição do gráfico de vendas,Suporte & Erros,Média,2026-04-17 18:40:00,2026-04-17 19:28:00,2026-04-17 23:11:12,4,24,1.4,Fechado,Ana Silva,True,True
+TCK-1337,CLI-010,Bug na exibição do gráfico de vendas,Suporte & Erros,Alta,2026-04-20 14:30:00,2026-04-20 15:43:12,2026-04-20 19:04:12,2,8,1.1,Fechado,Ana Silva,True,True
+TCK-1338,CLI-004,Backup e restauração de ambiente de testes,Infraestrutura & Cloud,Alta,2026-05-26 08:16:00,2026-05-26 08:49:00,2026-05-27 00:44:12,2,8,1.0,Fechado,Carlos Oliveira,True,False
+TCK-1339,CLI-002,Erro de autenticação no portal do cliente,Suporte & Erros,Alta,2026-04-30 16:26:00,2026-04-30 20:17:00,2026-04-30 23:08:00,2,8,3.0,Fechado,Beatriz Lima,False,True
+TCK-1340,CLI-010,Configuração de rotina de backup em nuvem AWS,Infraestrutura & Cloud,Média,2026-06-02 17:56:00,2026-06-02 19:05:00,2026-06-03 12:34:24,4,24,0.6,Fechado,Beatriz Lima,True,True
+TCK-1341,CLI-006,Como redefinir permissões de grupo de usuários,Dúvidas Operacionais,Média,2026-05-26 10:10:00,2026-05-26 19:05:48,2026-05-27 00:34:36,4,24,3.5,Fechado,Ana Silva,False,True
+TCK-1342,CLI-009,Configuração de certificado SSL e HTTPS,Infraestrutura & Cloud,Crítica,2026-03-10 17:16:00,2026-03-10 17:56:48,2026-03-10 18:23:12,1,4,4.2,Fechado,Beatriz Lima,True,True
+TCK-1343,CLI-007,Dúvida na importação do arquivo CSV de pedidos,Dúvidas Operacionais,Crítica,2026-06-14 15:58:00,2026-06-14 16:41:48,2026-06-14 18:17:48,1,4,3.7,Fechado,Lucas Mendes,True,True
+TCK-1344,CLI-006,Configuração de certificado SSL e HTTPS,Infraestrutura & Cloud,Crítica,2026-06-26 17:37:00,2026-06-26 18:28:00,2026-06-27 01:50:48,1,4,2.4,Fechado,Carlos Oliveira,True,False
+TCK-1345,CLI-004,Revisão das regras de negócio do contrato,Consultoria & Treinamento,Alta,2026-05-17 12:24:00,2026-05-17 13:28:12,2026-05-17 14:41:24,2,8,4.4,Fechado,Lucas Mendes,True,True
+TCK-1346,CLI-006,Orientação sobre parametrização do sistema,Dúvidas Operacionais,Média,2026-05-13 13:44:00,2026-05-13 16:26:36,2026-05-16 04:44:00,4,24,0.6,Fechado,Ana Silva,True,False
+TCK-1347,CLI-009,Consultoria de otimização de processos operacionais,Consultoria & Treinamento,Média,2026-06-06 18:06:00,2026-06-06 23:46:48,2026-06-07 11:40:12,4,24,6.6,Fechado,Lucas Mendes,False,True
+TCK-1348,CLI-006,Consultoria de otimização de processos operacionais,Consultoria & Treinamento,Média,2026-05-18 17:41:00,2026-05-18 19:20:00,2026-05-20 12:41:36,4,24,4.9,Fechado,Beatriz Lima,True,False
+TCK-1349,CLI-004,Dúvida na importação do arquivo CSV de pedidos,Dúvidas Operacionais,Alta,2026-06-12 10:04:00,2026-06-12 11:01:36,,2,8,1.0,Aguardando Cliente,Ana Silva,True,
+TCK-1350,CLI-002,Esclarecimento sobre regra de encerramento mensal,Dúvidas Operacionais,Baixa,2026-03-22 11:53:00,2026-03-22 12:12:48,2026-03-23 03:47:36,8,48,1.1,Fechado,Carlos Oliveira,True,True
+TCK-1351,CLI-003,Modelagem de novos relatórios gerenciais,Consultoria & Treinamento,Crítica,2026-05-13 18:59:00,2026-05-13 19:06:12,2026-05-13 21:15:12,1,4,3.1,Fechado,Rodrigo Santos,True,True
+TCK-1352,CLI-010,Configuração de rotina de backup em nuvem AWS,Infraestrutura & Cloud,Média,2026-05-01 13:10:00,2026-05-01 14:10:36,2026-05-02 19:15:24,4,24,0.6,Fechado,Rodrigo Santos,True,False
+TCK-1353,CLI-001,Lentidão na geração de relatórios mensais,Suporte & Erros,Média,2026-03-27 11:41:00,2026-03-27 12:30:12,2026-03-27 23:15:48,4,24,3.1,Fechado,Rodrigo Santos,True,True
+TCK-1354,CLI-010,Bug na exibição do gráfico de vendas,Suporte & Erros,Baixa,2026-07-16 10:38:00,2026-07-16 12:19:24,2026-07-18 03:29:00,8,48,2.6,Fechado,Carlos Oliveira,True,True
+TCK-1355,CLI-001,Modelagem de novos relatórios gerenciais,Consultoria & Treinamento,Média,2026-05-01 15:16:00,2026-05-01 16:25:36,2026-05-02 05:14:48,4,24,5.5,Fechado,Mariana Costa,True,True
+TCK-1356,CLI-001,Erro de permissão de usuário no módulo financeiro,Suporte & Erros,Baixa,2026-05-07 16:41:00,2026-05-07 18:47:36,2026-05-08 14:41:36,8,48,1.5,Fechado,Beatriz Lima,True,True
+TCK-1357,CLI-009,Consultoria de otimização de processos operacionais,Consultoria & Treinamento,Alta,2026-04-08 18:45:00,2026-04-08 22:46:12,2026-04-09 00:30:36,2,8,3.4,Fechado,Lucas Mendes,False,True
+TCK-1358,CLI-006,Erro de permissão de usuário no módulo financeiro,Suporte & Erros,Baixa,2026-07-20 13:43:00,2026-07-20 13:59:48,2026-07-21 02:49:36,8,48,3.2,Fechado,Mariana Costa,True,True
+TCK-1359,CLI-008,Otimização de queries pesadas no banco,Infraestrutura & Cloud,Alta,2026-02-10 17:45:00,2026-02-10 22:13:48,2026-02-11 00:13:48,2,8,2.6,Fechado,Beatriz Lima,False,True
+TCK-1360,CLI-010,Backup e restauração de ambiente de testes,Infraestrutura & Cloud,Média,2026-04-18 10:53:00,2026-04-18 12:56:00,2026-04-18 22:14:36,4,24,2.7,Fechado,Rodrigo Santos,True,True
+TCK-1361,CLI-009,Como redefinir permissões de grupo de usuários,Dúvidas Operacionais,Média,2026-04-27 18:05:00,2026-04-27 18:57:48,2026-04-29 13:38:36,4,24,3.2,Fechado,Beatriz Lima,True,False
+TCK-1362,CLI-002,Consultoria de otimização de processos operacionais,Consultoria & Treinamento,Média,2026-04-17 15:54:00,2026-04-17 16:11:24,2026-04-18 04:38:24,4,24,5.7,Fechado,Rodrigo Santos,True,True
+TCK-1363,CLI-006,Configuração de certificado SSL e HTTPS,Infraestrutura & Cloud,Baixa,2026-03-03 18:24:00,2026-03-03 21:25:48,,8,48,3.5,Em Andamento,Rodrigo Santos,True,
+TCK-1364,CLI-008,Implementação de filtro avançado na listagem,Desenvolvimento & Melhoria,Crítica,2026-04-29 14:36:00,2026-04-29 17:04:48,2026-04-29 18:04:12,1,4,3.4,Fechado,Carlos Oliveira,False,True
+TCK-1365,CLI-006,Bug na exibição do gráfico de vendas,Suporte & Erros,Média,2026-07-12 10:20:00,2026-07-12 10:27:12,2026-07-13 02:51:12,4,24,1.0,Fechado,Lucas Mendes,True,True
+TCK-1366,CLI-007,Automação do envio de notificações por email,Desenvolvimento & Melhoria,Média,2026-03-06 17:27:00,2026-03-06 18:57:36,2026-03-08 11:29:24,4,24,1.9,Fechado,Ana Silva,True,False
+TCK-1367,CLI-006,Desenvolvimento de exportação em Excel customizada,Desenvolvimento & Melhoria,Baixa,2026-04-24 16:12:00,2026-04-24 16:19:48,2026-04-25 02:13:48,8,48,10.7,Fechado,Ana Silva,True,True
+TCK-1368,CLI-008,Alinhamento estratégico para migração de sistema,Consultoria & Treinamento,Baixa,2026-05-10 16:37:00,2026-05-10 17:10:36,2026-05-12 09:37:36,8,48,4.7,Fechado,Ana Silva,True,True
+TCK-1369,CLI-006,Dúvida na importação do arquivo CSV de pedidos,Dúvidas Operacionais,Média,2026-07-26 10:21:00,2026-07-26 17:30:00,2026-07-26 20:03:00,4,24,3.2,Fechado,Mariana Costa,False,True
+TCK-1370,CLI-002,Aumento de capacidade do servidor de banco de dados,Infraestrutura & Cloud,Crítica,2026-03-30 10:13:00,2026-03-30 10:47:12,2026-03-30 12:01:36,1,4,4.6,Fechado,Carlos Oliveira,True,True
+TCK-1371,CLI-004,Bug na exibição do gráfico de vendas,Suporte & Erros,Crítica,2026-04-07 16:39:00,2026-04-07 17:33:00,2026-04-07 19:22:48,1,4,2.1,Fechado,Beatriz Lima,True,True
+TCK-1372,CLI-008,Bug na exibição do gráfico de vendas,Suporte & Erros,Alta,2026-05-09 09:35:00,2026-05-09 10:52:24,2026-05-09 14:59:36,2,8,0.5,Fechado,Mariana Costa,True,True
+TCK-1373,CLI-007,Aumento de capacidade do servidor de banco de dados,Infraestrutura & Cloud,Baixa,2026-06-14 12:39:00,2026-06-14 13:43:12,2026-06-17 02:00:36,8,48,2.7,Fechado,Beatriz Lima,True,False
+TCK-1374,CLI-007,Falha na integração via API com ERP,Suporte & Erros,Média,2026-02-28 15:12:00,2026-02-28 18:01:12,2026-03-03 09:18:00,4,24,1.6,Fechado,Ana Silva,True,False
+TCK-1375,CLI-002,Backup e restauração de ambiente de testes,Infraestrutura & Cloud,Média,2026-02-11 16:31:00,2026-02-12 00:46:00,2026-02-12 04:02:48,4,24,0.5,Fechado,Carlos Oliveira,False,True
+TCK-1376,CLI-005,Erro de autenticação no portal do cliente,Suporte & Erros,Alta,2026-07-22 15:09:00,2026-07-22 19:31:48,2026-07-22 21:37:48,2,8,3.2,Fechado,Rodrigo Santos,False,True
+TCK-1377,CLI-004,Automação do envio de notificações por email,Desenvolvimento & Melhoria,Crítica,2026-04-09 15:03:00,2026-04-09 15:17:24,2026-04-09 16:24:36,1,4,9.9,Fechado,Lucas Mendes,True,True
+TCK-1378,CLI-002,Modelagem de novos relatórios gerenciais,Consultoria & Treinamento,Média,2026-03-02 09:54:00,2026-03-02 10:09:36,2026-03-04 15:21:36,4,24,3.0,Fechado,Beatriz Lima,True,False
+TCK-1379,CLI-010,Modelagem de novos relatórios gerenciais,Consultoria & Treinamento,Crítica,2026-04-10 09:23:00,2026-04-10 09:38:00,2026-04-10 12:51:48,1,4,3.6,Fechado,Rodrigo Santos,True,True
+TCK-1380,CLI-007,Otimização de queries pesadas no banco,Infraestrutura & Cloud,Baixa,2026-07-17 10:07:00,2026-07-17 15:22:36,2026-07-22 11:49:00,8,48,0.8,Fechado,Mariana Costa,True,False
+TCK-1381,CLI-006,Orientação sobre parametrização do sistema,Dúvidas Operacionais,Alta,2026-07-24 15:11:00,2026-07-24 16:36:12,2026-07-24 21:36:48,2,8,3.1,Fechado,Rodrigo Santos,True,True
+TCK-1382,CLI-008,Automação do envio de notificações por email,Desenvolvimento & Melhoria,Média,2026-03-01 14:28:00,2026-03-01 15:29:12,2026-03-02 06:02:48,4,24,8.6,Fechado,Mariana Costa,True,True
+TCK-1383,CLI-004,Como redefinir permissões de grupo de usuários,Dúvidas Operacionais,Média,2026-04-28 16:33:00,2026-04-28 18:48:36,2026-04-29 08:55:12,4,24,1.9,Fechado,Beatriz Lima,True,True
+TCK-1384,CLI-002,Configuração de certificado SSL e HTTPS,Infraestrutura & Cloud,Média,2026-07-07 08:00:00,2026-07-07 08:39:00,,4,24,3.5,Em Andamento,Rodrigo Santos,True,
+TCK-1385,CLI-008,Configuração de certificado SSL e HTTPS,Infraestrutura & Cloud,Média,2026-06-06 13:15:00,2026-06-06 14:19:12,2026-06-07 01:42:36,4,24,1.6,Fechado,Ana Silva,True,True
+TCK-1386,CLI-003,Criação de novo campo personalizado de cadastro,Desenvolvimento & Melhoria,Média,2026-05-25 17:28:00,2026-05-25 19:18:24,2026-05-26 14:41:12,4,24,9.3,Fechado,Mariana Costa,True,True
+TCK-1387,CLI-007,Erro de autenticação no portal do cliente,Suporte & Erros,Baixa,2026-05-17 08:35:00,2026-05-17 14:32:36,2026-05-19 02:25:24,8,48,2.4,Fechado,Mariana Costa,True,True
+TCK-1388,CLI-003,Como redefinir permissões de grupo de usuários,Dúvidas Operacionais,Média,2026-07-22 15:21:00,2026-07-22 15:38:24,2026-07-23 01:25:48,4,24,2.2,Fechado,Beatriz Lima,True,True
+TCK-1389,CLI-007,Orientação sobre parametrização do sistema,Dúvidas Operacionais,Média,2026-07-19 13:45:00,2026-07-19 14:11:24,2026-07-19 14:26:24,4,24,1.6,Fechado,Beatriz Lima,True,True
+TCK-1390,CLI-004,Revisão das regras de negócio do contrato,Consultoria & Treinamento,Crítica,2026-05-07 09:02:00,2026-05-07 10:49:24,2026-05-07 18:29:00,1,4,4.5,Fechado,Rodrigo Santos,False,False
+TCK-1391,CLI-007,Revisão das regras de negócio do contrato,Consultoria & Treinamento,Média,2026-03-21 09:59:00,2026-03-21 10:50:00,2026-03-22 20:09:48,4,24,4.0,Fechado,Carlos Oliveira,True,False
+TCK-1392,CLI-007,Aumento de capacidade do servidor de banco de dados,Infraestrutura & Cloud,Crítica,2026-07-23 17:07:00,2026-07-23 17:34:36,2026-07-23 20:35:12,1,4,2.5,Fechado,Beatriz Lima,True,True
+TCK-1393,CLI-008,Aumento de capacidade do servidor de banco de dados,Infraestrutura & Cloud,Média,2026-02-13 16:59:00,2026-02-13 19:08:00,2026-02-16 03:15:12,4,24,3.2,Fechado,Rodrigo Santos,True,False
+TCK-1394,CLI-002,Como redefinir permissões de grupo de usuários,Dúvidas Operacionais,Alta,2026-03-05 09:24:00,2026-03-05 10:31:48,2026-03-05 15:54:00,2,8,1.8,Fechado,Beatriz Lima,True,True
+TCK-1395,CLI-007,Como redefinir permissões de grupo de usuários,Dúvidas Operacionais,Alta,2026-05-13 13:18:00,2026-05-13 13:37:48,,2,8,1.9,Em Andamento,Lucas Mendes,True,
+TCK-1396,CLI-002,Dúvida na importação do arquivo CSV de pedidos,Dúvidas Operacionais,Crítica,2026-06-21 13:45:00,2026-06-21 14:17:24,2026-06-21 15:05:24,1,4,4.9,Fechado,Beatriz Lima,True,True
+TCK-1397,CLI-006,Alinhamento estratégico para migração de sistema,Consultoria & Treinamento,Baixa,2026-07-17 10:32:00,2026-07-17 15:09:12,2026-07-18 20:33:12,8,48,5.4,Fechado,Beatriz Lima,True,True
+TCK-1398,CLI-008,Orientação sobre parametrização do sistema,Dúvidas Operacionais,Média,2026-06-17 12:56:00,2026-06-17 15:51:48,2026-06-17 16:32:00,4,24,0.9,Fechado,Beatriz Lima,True,True
+TCK-1399,CLI-008,Lentidão na geração de relatórios mensais,Suporte & Erros,Baixa,2026-03-14 12:43:00,2026-03-14 18:46:36,,8,48,2.9,Em Andamento,Lucas Mendes,True,
+TCK-1400,CLI-007,Alinhamento estratégico para migração de sistema,Consultoria & Treinamento,Média,2026-02-09 13:52:00,2026-02-09 16:07:36,,4,24,2.9,Em Andamento,Rodrigo Santos,True,
+TCK-1401,CLI-003,Como redefinir permissões de grupo de usuários,Dúvidas Operacionais,Média,2026-07-16 16:24:00,2026-07-16 19:15:00,2026-07-17 00:47:24,4,24,2.5,Fechado,Beatriz Lima,True,True
+TCK-1402,CLI-001,Otimização de queries pesadas no banco,Infraestrutura & Cloud,Média,2026-07-26 13:35:00,2026-07-26 16:17:00,2026-07-27 08:44:00,4,24,3.1,Fechado,Mariana Costa,True,True
+TCK-1403,CLI-004,Configuração de certificado SSL e HTTPS,Infraestrutura & Cloud,Alta,2026-07-16 13:48:00,2026-07-16 15:09:36,2026-07-16 19:27:00,2,8,1.1,Fechado,Beatriz Lima,True,True
+TCK-1404,CLI-010,Configuração de certificado SSL e HTTPS,Infraestrutura & Cloud,Média,2026-02-20 10:11:00,2026-02-20 10:42:12,,4,24,0.6,Em Andamento,Beatriz Lima,True,
+TCK-1405,CLI-006,Revisão das regras de negócio do contrato,Consultoria & Treinamento,Baixa,2026-03-06 10:37:00,2026-03-06 10:45:24,2026-03-08 03:08:12,8,48,2.2,Fechado,Lucas Mendes,True,True
+TCK-1406,CLI-007,Revisão das regras de negócio do contrato,Consultoria & Treinamento,Média,2026-07-11 17:53:00,2026-07-11 19:42:12,2026-07-12 02:54:48,4,24,6.7,Fechado,Ana Silva,True,True
+TCK-1407,CLI-007,Revisão das regras de negócio do contrato,Consultoria & Treinamento,Média,2026-03-20 16:04:00,2026-03-20 16:43:36,2026-03-21 01:17:48,4,24,4.1,Fechado,Carlos Oliveira,True,True
+TCK-1408,CLI-002,Desenvolvimento de exportação em Excel customizada,Desenvolvimento & Melhoria,Alta,2026-05-04 12:13:00,2026-05-04 16:08:48,,2,8,2.2,Em Andamento,Lucas Mendes,False,
+TCK-1409,CLI-009,Esclarecimento sobre regra de encerramento mensal,Dúvidas Operacionais,Alta,2026-07-22 13:28:00,2026-07-22 14:39:24,2026-07-23 01:35:12,2,8,0.6,Fechado,Ana Silva,True,False
+TCK-1410,CLI-010,Modelagem de novos relatórios gerenciais,Consultoria & Treinamento,Média,2026-05-10 12:34:00,2026-05-10 12:45:24,2026-05-11 05:17:48,4,24,5.1,Fechado,Ana Silva,True,True
+TCK-1411,CLI-009,Orientação sobre parametrização do sistema,Dúvidas Operacionais,Média,2026-02-12 12:57:00,2026-02-12 14:10:12,2026-02-12 16:18:36,4,24,3.4,Fechado,Mariana Costa,True,True
+TCK-1412,CLI-001,Esclarecimento sobre regra de encerramento mensal,Dúvidas Operacionais,Baixa,2026-02-17 11:42:00,2026-02-17 13:18:36,2026-02-19 00:06:00,8,48,1.1,Fechado,Beatriz Lima,True,True
+TCK-1413,CLI-007,Aumento de capacidade do servidor de banco de dados,Infraestrutura & Cloud,Alta,2026-07-26 10:01:00,2026-07-26 10:40:36,2026-07-26 11:13:00,2,8,2.9,Fechado,Beatriz Lima,True,True
+TCK-1414,CLI-007,Esclarecimento sobre regra de encerramento mensal,Dúvidas Operacionais,Alta,2026-03-31 12:26:00,2026-03-31 13:36:12,2026-03-31 13:54:12,2,8,2.5,Fechado,Rodrigo Santos,True,True
+TCK-1415,CLI-006,Esclarecimento sobre regra de encerramento mensal,Dúvidas Operacionais,Média,2026-07-09 09:48:00,2026-07-09 10:03:36,,4,24,3.5,Aguardando Cliente,Beatriz Lima,True,
+TCK-1416,CLI-002,Revisão das regras de negócio do contrato,Consultoria & Treinamento,Média,2026-04-16 18:19:00,2026-04-16 19:24:24,2026-04-18 12:16:36,4,24,6.9,Fechado,Ana Silva,True,False
+TCK-1417,CLI-003,Bug na exibição do gráfico de vendas,Suporte & Erros,Baixa,2026-06-17 11:08:00,2026-06-17 16:53:36,2026-06-20 16:00:12,8,48,2.4,Fechado,Carlos Oliveira,True,False
+TCK-1418,CLI-008,Consultoria de otimização de processos operacionais,Consultoria & Treinamento,Média,2026-06-22 16:09:00,2026-06-22 16:16:12,2026-06-23 03:54:00,4,24,7.7,Fechado,Ana Silva,True,True
+TCK-1419,CLI-001,Alinhamento estratégico para migração de sistema,Consultoria & Treinamento,Média,2026-04-30 11:26:00,2026-04-30 20:36:12,2026-04-30 23:03:12,4,24,5.7,Fechado,Beatriz Lima,False,True
+TCK-1420,CLI-009,Alinhamento estratégico para migração de sistema,Consultoria & Treinamento,Baixa,2026-03-19 18:51:00,2026-03-19 19:20:24,2026-03-21 13:37:48,8,48,5.3,Fechado,Ana Silva,True,True
+TCK-1421,CLI-001,Esclarecimento sobre regra de encerramento mensal,Dúvidas Operacionais,Média,2026-07-22 09:16:00,2026-07-22 11:54:24,2026-07-22 18:19:00,4,24,0.9,Fechado,Lucas Mendes,True,True
+TCK-1422,CLI-005,Criação de novo campo personalizado de cadastro,Desenvolvimento & Melhoria,Alta,2026-07-09 09:57:00,2026-07-09 10:52:48,2026-07-09 15:04:48,2,8,8.8,Fechado,Lucas Mendes,True,True
+TCK-1423,CLI-003,Refatoração da rotina de cálculo de impostos,Desenvolvimento & Melhoria,Baixa,2026-05-05 13:27:00,2026-05-05 15:46:12,2026-05-06 20:56:24,8,48,8.2,Fechado,Rodrigo Santos,True,True
+TCK-1424,CLI-010,Consultoria de otimização de processos operacionais,Consultoria & Treinamento,Alta,2026-07-24 13:56:00,2026-07-24 14:47:36,,2,8,3.2,Em Andamento,Carlos Oliveira,True,
+TCK-1425,CLI-009,Configuração de rotina de backup em nuvem AWS,Infraestrutura & Cloud,Baixa,2026-03-17 18:38:00,2026-03-17 20:43:24,2026-03-23 00:09:48,8,48,1.1,Fechado,Ana Silva,True,False
+TCK-1426,CLI-009,Erro de autenticação no portal do cliente,Suporte & Erros,Baixa,2026-06-10 18:01:00,2026-06-10 22:13:36,2026-06-11 06:40:36,8,48,0.6,Fechado,Ana Silva,True,True
+TCK-1427,CLI-010,Revisão das regras de negócio do contrato,Consultoria & Treinamento,Média,2026-06-01 18:49:00,2026-06-01 20:17:12,2026-06-03 21:16:36,4,24,7.1,Fechado,Rodrigo Santos,True,False
+TCK-1428,CLI-004,Automação do envio de notificações por email,Desenvolvimento & Melhoria,Média,2026-06-11 09:25:00,2026-06-11 09:33:24,2026-06-12 06:14:48,4,24,11.8,Fechado,Rodrigo Santos,True,True
+TCK-1429,CLI-001,Refatoração da rotina de cálculo de impostos,Desenvolvimento & Melhoria,Média,2026-05-26 10:11:00,2026-05-26 12:15:48,,4,24,3.6,Aguardando Cliente,Carlos Oliveira,True,
+TCK-1430,CLI-010,Automação do envio de notificações por email,Desenvolvimento & Melhoria,Alta,2026-02-11 11:48:00,2026-02-11 12:00:36,2026-02-11 12:30:00,2,8,3.7,Fechado,Lucas Mendes,True,True
+TCK-1431,CLI-009,Modelagem de novos relatórios gerenciais,Consultoria & Treinamento,Baixa,2026-05-28 08:02:00,2026-05-28 20:27:48,,8,48,3.0,Em Andamento,Mariana Costa,False,
+TCK-1432,CLI-004,Dúvida na importação do arquivo CSV de pedidos,Dúvidas Operacionais,Média,2026-04-09 17:34:00,2026-04-09 18:59:12,2026-04-10 06:55:36,4,24,3.2,Fechado,Beatriz Lima,True,True
+TCK-1433,CLI-002,Erro de permissão de usuário no módulo financeiro,Suporte & Erros,Crítica,2026-05-08 11:33:00,2026-05-08 12:18:00,2026-05-08 14:36:00,1,4,5.5,Fechado,Lucas Mendes,True,True
+TCK-1434,CLI-001,Erro de permissão de usuário no módulo financeiro,Suporte & Erros,Crítica,2026-05-24 10:14:00,2026-05-24 10:50:36,,1,4,1.2,Em Andamento,Carlos Oliveira,True,
+TCK-1435,CLI-010,Implementação de filtro avançado na listagem,Desenvolvimento & Melhoria,Média,2026-07-05 09:42:00,2026-07-05 12:38:24,2026-07-05 21:43:48,4,24,6.5,Fechado,Lucas Mendes,True,True
+TCK-1436,CLI-001,Refatoração da rotina de cálculo de impostos,Desenvolvimento & Melhoria,Alta,2026-07-16 14:01:00,2026-07-16 14:20:12,2026-07-16 15:26:12,2,8,6.9,Fechado,Carlos Oliveira,True,True
+TCK-1437,CLI-005,Como redefinir permissões de grupo de usuários,Dúvidas Operacionais,Alta,2026-03-15 12:59:00,2026-03-15 14:42:48,,2,8,2.6,Aguardando Cliente,Ana Silva,True,
+TCK-1438,CLI-003,Esclarecimento sobre regra de encerramento mensal,Dúvidas Operacionais,Crítica,2026-07-20 12:05:00,2026-07-20 12:40:24,2026-07-20 14:13:24,1,4,2.9,Fechado,Beatriz Lima,True,True
+TCK-1439,CLI-009,Configuração de rotina de backup em nuvem AWS,Infraestrutura & Cloud,Média,2026-06-30 10:39:00,2026-06-30 11:40:48,2026-06-30 18:51:36,4,24,1.9,Fechado,Carlos Oliveira,True,True
+TCK-1440,CLI-005,Esclarecimento sobre regra de encerramento mensal,Dúvidas Operacionais,Média,2026-05-08 14:08:00,2026-05-08 14:56:36,2026-05-10 13:06:48,4,24,1.8,Fechado,Carlos Oliveira,True,False
+TCK-1441,CLI-009,Refatoração da rotina de cálculo de impostos,Desenvolvimento & Melhoria,Crítica,2026-03-18 15:57:00,2026-03-18 16:04:48,2026-03-18 17:55:48,1,4,2.7,Fechado,Ana Silva,True,True
+TCK-1442,CLI-001,Configuração de certificado SSL e HTTPS,Infraestrutura & Cloud,Baixa,2026-06-19 08:57:00,2026-06-20 01:21:00,2026-06-20 12:44:24,8,48,3.1,Fechado,Rodrigo Santos,False,True
+TCK-1443,CLI-010,Orientação sobre parametrização do sistema,Dúvidas Operacionais,Média,2026-06-04 14:22:00,2026-06-04 17:03:24,2026-06-05 06:17:48,4,24,0.8,Fechado,Carlos Oliveira,True,True
+TCK-1444,CLI-002,Desenvolvimento de exportação em Excel customizada,Desenvolvimento & Melhoria,Baixa,2026-04-01 09:18:00,2026-04-01 13:15:36,2026-04-01 13:40:12,8,48,9.3,Fechado,Mariana Costa,True,True
+TCK-1445,CLI-004,Erro de permissão de usuário no módulo financeiro,Suporte & Erros,Média,2026-03-03 16:00:00,2026-03-03 16:49:12,2026-03-04 01:25:48,4,24,0.8,Fechado,Rodrigo Santos,True,True
+TCK-1446,CLI-002,Configuração de rotina de backup em nuvem AWS,Infraestrutura & Cloud,Baixa,2026-04-08 16:27:00,2026-04-08 20:53:24,2026-04-12 05:40:48,8,48,1.1,Fechado,Lucas Mendes,True,False
+TCK-1447,CLI-001,Orientação sobre parametrização do sistema,Dúvidas Operacionais,Média,2026-05-06 16:35:00,2026-05-06 20:08:36,2026-05-07 10:09:12,4,24,1.7,Fechado,Carlos Oliveira,True,True
+TCK-1448,CLI-010,Criação de novo campo personalizado de cadastro,Desenvolvimento & Melhoria,Baixa,2026-03-31 15:50:00,2026-03-31 17:05:00,2026-04-01 10:00:12,8,48,5.1,Fechado,Beatriz Lima,True,True
+TCK-1449,CLI-009,Esclarecimento sobre regra de encerramento mensal,Dúvidas Operacionais,Média,2026-05-11 18:00:00,2026-05-11 20:58:48,2026-05-12 08:14:24,4,24,0.8,Fechado,Carlos Oliveira,True,True
+TCK-1450,CLI-003,Alinhamento estratégico para migração de sistema,Consultoria & Treinamento,Baixa,2026-02-21 17:02:00,2026-02-21 23:44:36,2026-02-22 23:45:12,8,48,3.7,Fechado,Lucas Mendes,True,True
+TCK-1451,CLI-010,Esclarecimento sobre regra de encerramento mensal,Dúvidas Operacionais,Média,2026-07-14 15:28:00,2026-07-14 18:32:48,2026-07-16 15:00:24,4,24,1.1,Fechado,Carlos Oliveira,True,False
+TCK-1452,CLI-002,Como redefinir permissões de grupo de usuários,Dúvidas Operacionais,Alta,2026-03-16 18:02:00,2026-03-16 19:14:36,2026-03-17 04:00:48,2,8,1.3,Fechado,Rodrigo Santos,True,False
+TCK-1453,CLI-003,Backup e restauração de ambiente de testes,Infraestrutura & Cloud,Baixa,2026-05-13 14:37:00,2026-05-13 14:49:36,2026-05-15 06:21:24,8,48,2.1,Fechado,Beatriz Lima,True,True
+TCK-1454,CLI-003,Dúvida na importação do arquivo CSV de pedidos,Dúvidas Operacionais,Média,2026-04-12 11:38:00,2026-04-12 18:35:00,2026-04-12 18:51:12,4,24,1.0,Fechado,Lucas Mendes,False,True
+TCK-1455,CLI-010,Esclarecimento sobre regra de encerramento mensal,Dúvidas Operacionais,Alta,2026-02-19 16:18:00,2026-02-19 16:36:00,2026-02-19 18:31:48,2,8,2.1,Fechado,Rodrigo Santos,True,True
+TCK-1456,CLI-003,Dúvida na importação do arquivo CSV de pedidos,Dúvidas Operacionais,Média,2026-05-25 14:36:00,2026-05-25 15:33:00,2026-05-26 07:36:36,4,24,2.5,Fechado,Beatriz Lima,True,True
+TCK-1457,CLI-010,Esclarecimento sobre regra de encerramento mensal,Dúvidas Operacionais,Alta,2026-03-02 12:04:00,2026-03-02 13:30:24,,2,8,1.3,Em Andamento,Mariana Costa,True,
+TCK-1458,CLI-001,Desenvolvimento de exportação em Excel customizada,Desenvolvimento & Melhoria,Baixa,2026-05-02 16:34:00,2026-05-02 22:34:36,,8,48,1.4,Aguardando Cliente,Mariana Costa,True,
+TCK-1459,CLI-001,Bug na exibição do gráfico de vendas,Suporte & Erros,Média,2026-04-29 09:35:00,2026-04-29 16:39:12,2026-04-30 05:40:24,4,24,1.3,Fechado,Beatriz Lima,False,True
+TCK-1460,CLI-009,Automação do envio de notificações por email,Desenvolvimento & Melhoria,Alta,2026-03-24 11:47:00,2026-03-24 12:20:00,2026-03-24 17:55:24,2,8,10.3,Fechado,Beatriz Lima,True,True
+TCK-1461,CLI-006,Alinhamento estratégico para migração de sistema,Consultoria & Treinamento,Média,2026-03-03 09:43:00,2026-03-03 16:52:36,2026-03-04 05:16:36,4,24,7.7,Fechado,Ana Silva,False,True
+TCK-1462,CLI-010,Backup e restauração de ambiente de testes,Infraestrutura & Cloud,Alta,2026-04-22 15:57:00,2026-04-22 20:39:36,2026-04-23 07:25:12,2,8,3.5,Fechado,Rodrigo Santos,False,False
+TCK-1463,CLI-006,Dúvida na importação do arquivo CSV de pedidos,Dúvidas Operacionais,Média,2026-03-29 17:08:00,2026-03-29 20:02:00,2026-03-30 06:14:00,4,24,2.0,Fechado,Mariana Costa,True,True
+TCK-1464,CLI-008,Configuração de certificado SSL e HTTPS,Infraestrutura & Cloud,Média,2026-03-03 16:29:00,2026-03-03 16:36:48,2026-03-04 00:53:00,4,24,0.8,Fechado,Mariana Costa,True,True
+TCK-1465,CLI-005,Revisão das regras de negócio do contrato,Consultoria & Treinamento,Crítica,2026-03-20 16:16:00,2026-03-20 16:44:48,2026-03-20 18:01:00,1,4,5.0,Fechado,Lucas Mendes,True,True
+TCK-1466,CLI-002,Automação do envio de notificações por email,Desenvolvimento & Melhoria,Média,2026-05-07 13:54:00,2026-05-07 15:34:48,2026-05-08 11:05:24,4,24,8.7,Fechado,Beatriz Lima,True,True
+TCK-1467,CLI-005,Falha na integração via API com ERP,Suporte & Erros,Alta,2026-06-23 14:54:00,2026-06-23 15:15:00,2026-06-24 01:43:48,2,8,2.9,Fechado,Carlos Oliveira,True,False
+TCK-1468,CLI-004,Automação do envio de notificações por email,Desenvolvimento & Melhoria,Média,2026-03-07 18:33:00,2026-03-07 19:45:36,2026-03-08 01:01:48,4,24,10.5,Fechado,Mariana Costa,True,True
+TCK-1469,CLI-008,Bug na exibição do gráfico de vendas,Suporte & Erros,Crítica,2026-07-27 10:03:00,2026-07-27 10:21:00,,1,4,3.4,Aguardando Cliente,Ana Silva,True,
+TCK-1470,CLI-005,Bug na exibição do gráfico de vendas,Suporte & Erros,Alta,2026-04-27 12:23:00,2026-04-27 13:26:00,2026-04-27 15:41:00,2,8,1.7,Fechado,Beatriz Lima,True,True
+TCK-1471,CLI-006,Revisão das regras de negócio do contrato,Consultoria & Treinamento,Baixa,2026-06-28 17:41:00,2026-06-28 19:01:24,2026-06-29 10:00:48,8,48,6.0,Fechado,Carlos Oliveira,True,True
+TCK-1472,CLI-010,Otimização de queries pesadas no banco,Infraestrutura & Cloud,Crítica,2026-05-09 17:18:00,2026-05-09 18:10:12,2026-05-10 02:03:36,1,4,5.7,Fechado,Ana Silva,True,False
+TCK-1473,CLI-007,Configuração de rotina de backup em nuvem AWS,Infraestrutura & Cloud,Alta,2026-05-15 09:05:00,2026-05-15 09:34:24,2026-05-15 11:40:24,2,8,1.3,Fechado,Rodrigo Santos,True,True
+TCK-1474,CLI-004,Backup e restauração de ambiente de testes,Infraestrutura & Cloud,Alta,2026-05-04 17:33:00,2026-05-04 20:54:36,2026-05-04 21:11:24,2,8,2.7,Fechado,Mariana Costa,False,True
+TCK-1475,CLI-006,Treinamento da equipe no novo módulo fiscal,Consultoria & Treinamento,Média,2026-03-15 14:06:00,2026-03-15 17:28:48,2026-03-15 18:39:00,4,24,6.6,Fechado,Carlos Oliveira,True,True
+TCK-1476,CLI-001,Esclarecimento sobre regra de encerramento mensal,Dúvidas Operacionais,Baixa,2026-04-09 17:09:00,2026-04-09 23:51:36,,8,48,1.9,Em Andamento,Ana Silva,True,
+TCK-1477,CLI-003,Implementação de filtro avançado na listagem,Desenvolvimento & Melhoria,Alta,2026-04-14 15:40:00,2026-04-14 16:40:00,2026-04-14 17:04:36,2,8,5.2,Fechado,Beatriz Lima,True,True
+TCK-1478,CLI-003,Modelagem de novos relatórios gerenciais,Consultoria & Treinamento,Média,2026-06-19 12:35:00,2026-06-19 16:04:24,2026-06-19 19:26:36,4,24,5.6,Fechado,Mariana Costa,True,True
+TCK-1479,CLI-010,Orientação sobre parametrização do sistema,Dúvidas Operacionais,Alta,2026-07-14 18:34:00,2026-07-14 19:15:24,2026-07-15 00:32:12,2,8,1.8,Fechado,Rodrigo Santos,True,True
+TCK-1480,CLI-001,Modelagem de novos relatórios gerenciais,Consultoria & Treinamento,Alta,2026-03-12 12:00:00,2026-03-12 13:29:24,2026-03-13 01:28:48,2,8,4.8,Fechado,Lucas Mendes,True,False
+TCK-1481,CLI-008,Bug na exibição do gráfico de vendas,Suporte & Erros,Média,2026-04-18 08:49:00,2026-04-18 09:56:48,2026-04-18 10:17:48,4,24,1.6,Fechado,Mariana Costa,True,True
+TCK-1482,CLI-009,Configuração de rotina de backup em nuvem AWS,Infraestrutura & Cloud,Média,2026-05-13 11:10:00,2026-05-13 13:31:36,2026-05-14 22:34:00,4,24,0.7,Fechado,Mariana Costa,True,False
+TCK-1483,CLI-001,Refatoração da rotina de cálculo de impostos,Desenvolvimento & Melhoria,Crítica,2026-07-26 12:18:00,2026-07-26 12:49:48,2026-07-26 13:34:12,1,4,2.2,Fechado,Rodrigo Santos,True,True
+TCK-1484,CLI-004,Desenvolvimento de exportação em Excel customizada,Desenvolvimento & Melhoria,Média,2026-07-14 15:39:00,2026-07-14 18:12:00,2026-07-15 00:26:24,4,24,3.1,Fechado,Ana Silva,True,True
+TCK-1485,CLI-004,Esclarecimento sobre regra de encerramento mensal,Dúvidas Operacionais,Alta,2026-02-27 12:17:00,2026-02-27 13:08:00,2026-02-27 13:53:00,2,8,0.5,Fechado,Carlos Oliveira,True,True
+TCK-1486,CLI-002,Desenvolvimento de exportação em Excel customizada,Desenvolvimento & Melhoria,Alta,2026-04-21 15:23:00,2026-04-21 16:50:00,2026-04-21 21:42:48,2,8,11.5,Fechado,Mariana Costa,True,True
+TCK-1487,CLI-003,Falha na integração via API com ERP,Suporte & Erros,Média,2026-02-19 16:30:00,2026-02-19 19:43:48,2026-02-20 02:51:36,4,24,0.5,Fechado,Mariana Costa,True,True
+TCK-1488,CLI-003,Automação do envio de notificações por email,Desenvolvimento & Melhoria,Alta,2026-04-05 08:12:00,2026-04-05 09:36:36,2026-04-05 15:18:00,2,8,6.5,Fechado,Mariana Costa,True,True
+TCK-1489,CLI-008,Consultoria de otimização de processos operacionais,Consultoria & Treinamento,Baixa,2026-07-12 08:47:00,2026-07-12 23:24:48,2026-07-13 17:43:24,8,48,3.2,Fechado,Carlos Oliveira,False,True
+TCK-1490,CLI-004,Lentidão na geração de relatórios mensais,Suporte & Erros,Média,2026-04-02 18:27:00,2026-04-02 19:08:24,2026-04-02 21:49:12,4,24,2.9,Fechado,Ana Silva,True,True
+TCK-1491,CLI-005,Erro de autenticação no portal do cliente,Suporte & Erros,Média,2026-07-27 15:44:00,2026-07-27 17:08:00,2026-07-27 20:29:00,4,24,0.8,Fechado,Rodrigo Santos,True,True
+TCK-1492,CLI-004,Dúvida na importação do arquivo CSV de pedidos,Dúvidas Operacionais,Baixa,2026-02-16 08:22:00,2026-02-16 13:26:48,,8,48,3.3,Em Andamento,Beatriz Lima,True,
+TCK-1493,CLI-006,Automação do envio de notificações por email,Desenvolvimento & Melhoria,Média,2026-04-23 16:50:00,2026-04-23 18:09:12,2026-04-26 01:08:36,4,24,1.7,Fechado,Carlos Oliveira,True,False
+TCK-1494,CLI-001,Backup e restauração de ambiente de testes,Infraestrutura & Cloud,Baixa,2026-03-07 12:57:00,2026-03-07 18:04:12,2026-03-08 14:49:48,8,48,2.0,Fechado,Beatriz Lima,True,True
+TCK-1495,CLI-005,Como redefinir permissões de grupo de usuários,Dúvidas Operacionais,Baixa,2026-05-01 13:46:00,2026-05-01 20:01:36,2026-05-03 03:50:48,8,48,1.0,Fechado,Rodrigo Santos,True,True
+TCK-1496,CLI-005,Como redefinir permissões de grupo de usuários,Dúvidas Operacionais,Alta,2026-04-17 12:34:00,2026-04-17 12:40:00,2026-04-17 15:29:12,2,8,1.1,Fechado,Mariana Costa,True,True
+TCK-1497,CLI-005,Erro de permissão de usuário no módulo financeiro,Suporte & Erros,Média,2026-07-09 11:20:00,2026-07-09 13:44:00,2026-07-09 21:17:36,4,24,2.1,Fechado,Lucas Mendes,True,True
+TCK-1498,CLI-006,Configuração de rotina de backup em nuvem AWS,Infraestrutura & Cloud,Baixa,2026-07-07 12:20:00,2026-07-07 14:43:24,2026-07-08 17:41:00,8,48,0.6,Fechado,Carlos Oliveira,True,True
+TCK-1499,CLI-010,Implementação de filtro avançado na listagem,Desenvolvimento & Melhoria,Média,2026-03-24 09:31:00,2026-03-24 09:43:36,2026-03-24 18:09:24,4,24,6.6,Fechado,Ana Silva,True,True
+TCK-1500,CLI-003,Dúvida na importação do arquivo CSV de pedidos,Dúvidas Operacionais,Média,2026-05-05 11:38:00,2026-05-05 11:47:00,2026-05-07 16:47:00,4,24,3.3,Fechado,Ana Silva,True,False
+TCK-1501,CLI-007,Bug na exibição do gráfico de vendas,Suporte & Erros,Alta,2026-02-16 13:35:00,2026-02-16 15:11:36,2026-02-17 09:11:00,2,8,0.7,Fechado,Beatriz Lima,True,False
+TCK-1502,CLI-004,Dúvida na importação do arquivo CSV de pedidos,Dúvidas Operacionais,Média,2026-02-11 09:53:00,2026-02-11 13:17:36,,4,24,3.9,Em Andamento,Rodrigo Santos,True,
+TCK-1503,CLI-005,Erro de autenticação no portal do cliente,Suporte & Erros,Média,2026-04-01 16:24:00,2026-04-01 18:20:24,2026-04-02 06:42:36,4,24,1.0,Fechado,Beatriz Lima,True,True
+TCK-1504,CLI-002,Orientação sobre parametrização do sistema,Dúvidas Operacionais,Alta,2026-02-28 18:36:00,2026-02-28 19:28:48,2026-03-01 01:04:48,2,8,1.0,Fechado,Beatriz Lima,True,True
+TCK-1505,CLI-006,Refatoração da rotina de cálculo de impostos,Desenvolvimento & Melhoria,Alta,2026-06-10 13:42:00,2026-06-10 15:30:00,2026-06-10 17:31:48,2,8,4.8,Fechado,Mariana Costa,True,True
+TCK-1506,CLI-001,Consultoria de otimização de processos operacionais,Consultoria & Treinamento,Média,2026-07-13 14:52:00,2026-07-13 17:05:48,2026-07-13 21:23:48,4,24,6.6,Fechado,Mariana Costa,True,True
+TCK-1507,CLI-006,Consultoria de otimização de processos operacionais,Consultoria & Treinamento,Alta,2026-05-26 14:00:00,2026-05-26 15:46:12,2026-05-26 18:40:48,2,8,8.0,Fechado,Mariana Costa,True,True
+TCK-1508,CLI-001,Treinamento da equipe no novo módulo fiscal,Consultoria & Treinamento,Alta,2026-03-29 11:54:00,2026-03-29 13:18:36,2026-03-30 07:52:48,2,8,7.5,Fechado,Lucas Mendes,True,False
+TCK-1509,CLI-002,Como redefinir permissões de grupo de usuários,Dúvidas Operacionais,Média,2026-02-10 15:22:00,2026-02-10 16:23:48,,4,24,3.6,Em Andamento,Ana Silva,True,
+TCK-1510,CLI-007,Implementação de filtro avançado na listagem,Desenvolvimento & Melhoria,Média,2026-04-18 09:36:00,2026-04-18 12:54:36,2026-04-19 02:12:00,4,24,9.8,Fechado,Lucas Mendes,True,True
+TCK-1511,CLI-006,Automação do envio de notificações por email,Desenvolvimento & Melhoria,Baixa,2026-06-28 09:38:00,2026-06-28 10:00:12,2026-06-29 02:28:24,8,48,9.7,Fechado,Beatriz Lima,True,True
+TCK-1512,CLI-006,Consultoria de otimização de processos operacionais,Consultoria & Treinamento,Média,2026-05-18 09:55:00,2026-05-18 12:38:12,2026-05-21 02:12:24,4,24,5.8,Fechado,Mariana Costa,True,False
+TCK-1513,CLI-002,Aumento de capacidade do servidor de banco de dados,Infraestrutura & Cloud,Média,2026-06-15 08:20:00,2026-06-15 08:57:12,2026-06-15 13:44:36,4,24,0.7,Fechado,Lucas Mendes,True,True
+TCK-1514,CLI-009,Otimização de queries pesadas no banco,Infraestrutura & Cloud,Alta,2026-06-28 16:05:00,2026-06-28 16:40:24,2026-06-28 17:43:24,2,8,0.7,Fechado,Rodrigo Santos,True,True
+TCK-1515,CLI-007,Esclarecimento sobre regra de encerramento mensal,Dúvidas Operacionais,Baixa,2026-05-14 12:05:00,2026-05-14 15:15:48,2026-05-15 21:48:12,8,48,1.9,Fechado,Rodrigo Santos,True,True
+TCK-1516,CLI-008,Automação do envio de notificações por email,Desenvolvimento & Melhoria,Média,2026-07-17 17:12:00,2026-07-17 20:47:24,2026-07-18 01:18:36,4,24,4.3,Fechado,Mariana Costa,True,True
+TCK-1517,CLI-004,Backup e restauração de ambiente de testes,Infraestrutura & Cloud,Alta,2026-06-28 09:07:00,2026-06-28 09:56:12,2026-06-28 12:07:00,2,8,2.3,Fechado,Beatriz Lima,True,True
+TCK-1518,CLI-007,Falha na integração via API com ERP,Suporte & Erros,Baixa,2026-05-01 17:52:00,2026-05-02 07:37:00,2026-05-02 09:07:36,8,48,3.0,Fechado,Carlos Oliveira,False,True
+TCK-1519,CLI-005,Desenvolvimento de exportação em Excel customizada,Desenvolvimento & Melhoria,Média,2026-02-22 09:47:00,2026-02-22 13:12:12,2026-02-24 23:38:00,4,24,10.1,Fechado,Carlos Oliveira,True,False
+TCK-1520,CLI-004,Falha na integração via API com ERP,Suporte & Erros,Média,2026-03-01 12:28:00,2026-03-01 13:43:36,2026-03-01 18:11:48,4,24,2.1,Fechado,Beatriz Lima,True,True

@@ -1,0 +1,11 @@
+cliente_id,nome_cliente,segmento,horas_contratadas_mes,valor_hora_adicional,gerente_conta
+CLI-001,TechCorp Soluções (Fictício),Tecnologia,120,220.0,Mariana Souza
+CLI-002,InovaLog Logística (Fictício),Logística,80,200.0,Carlos Andrade
+CLI-003,FinanceHub Capital (Fictício),Finanças,160,280.0,Mariana Souza
+CLI-004,RetailMax Varejo (Fictício),Varejo,60,190.0,Roberto Lima
+CLI-005,HealthCare Plus (Fictício),Saúde,200,300.0,Carlos Andrade
+CLI-006,BioPharma Lab (Fictício),Saúde,40,250.0,Roberto Lima
+CLI-007,EducaMais EAD (Fictício),Educação,50,180.0,Mariana Souza
+CLI-008,AgroTech Brasil (Fictício),Agronegócio,100,210.0,Carlos Andrade
+CLI-009,ConstruForte Eng (Fictício),Construção,30,200.0,Roberto Lima
+CLI-010,NexGen Energy (Fictício),Energia,150,260.0,Mariana Souza

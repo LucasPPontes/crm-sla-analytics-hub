@@ -1,0 +1,28 @@
+version: '3.8'
+
+services:
+  backend-api:
+    build:
+      context: ./backend
+      dockerfile: Dockerfile
+    ports:
+      - "8001:8001"
+    environment:
+      - PORT=8001
+    volumes:
+      - ./backend:/app
+    restart: always
+
+  shiny-frontend:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - "5173:5173"
+    environment:
+      - PORT=5173
+    volumes:
+      - .:/app
+    depends_on:
+      - backend-api
+    restart: always
